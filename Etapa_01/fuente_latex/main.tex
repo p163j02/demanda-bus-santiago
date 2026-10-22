@@ -1,0 +1,244 @@
+\documentclass[11pt,letterpaper]{article}
+
+% --- Paquetes de Formato y Estilo ---
+\usepackage[spanish,es-tabla]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm]{geometry}
+\usepackage{microtype}
+\usepackage{amsmath, amssymb}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{colortbl}
+\usepackage{tabularx}
+\usepackage{multicol}
+\usepackage{tcolorbox}
+
+% --- Definición de Colores Institucionales/Profesionales ---
+\definecolor{primary}{RGB}{24, 43, 73}       % Azul Marino
+\definecolor{secondary}{RGB}{192, 57, 43}    % Rojo/Burdeo Red Movilidad
+\definecolor{darkgray}{RGB}{60, 64, 67}
+\definecolor{lightgray}{RGB}{245, 247, 250}
+
+% --- Configuración de Enlaces e Hipervínculos ---
+\hypersetup{
+    colorlinks=true,
+    linkcolor=primary,
+    citecolor=primary,
+    urlcolor=secondary
+}
+
+% --- Configuración de Encabezado y Pie de Página ---
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\color{darkgray}\textbf{Proyecto Data Science:} Demanda de Transporte Público}
+\fancyhead[R]{\small\color{darkgray}Etapa I — Propuesta}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% --- Ajustes de Espaciado en Listas ---
+\setlist[itemize]{leftmargin=*, noitemsep, topsep=4pt}
+\setlist[enumerate]{leftmargin=*, noitemsep, topsep=4pt}
+
+% -------------------------------------------------------------------------
+% INICIO DEL DOCUMENTO
+% -------------------------------------------------------------------------
+\begin{document}
+
+% --- Encabezado / Título ---
+\begin{center}
+    {\fontsize{16}{20}\selectfont \textbf{\color{primary}Predicción de Demanda de Pasajeros por Comuna y Franja Horaria en la Red de Buses de Santiago}}\\[0.6em]
+    {\large \textbf{Propuesta de Proyecto y Definición del Problema (Etapa I)}}\\[0.4em]
+    {\small \color{darkgray} Asignatura: Data science \quad | \quad Fecha: 11 de Septiembre 2026}
+\end{center}
+
+\vspace{0.2em}
+\hrule height 1pt
+\vspace{0.8em}
+
+\noindent \textbf{Integrantes:}
+\begin{itemize}[leftmargin=1.5em]
+    \item Bastián Seguin - bastian.seguin@mail.udp.cl
+    \item Integrante 2 (Nombre Completo — Correo Institucional)
+    \item Integrante 3 (Nombre Completo — Correo Institucional)
+    \item Integrante 4 (Nombre Completo — Correo Institucional)
+\end{itemize}
+
+\vspace{0.5em}
+
+% -------------------------------------------------------------------------
+% 1. CONTEXTO DEL PROBLEMA
+% -------------------------------------------------------------------------
+\section*{\color{primary}1. Contexto del Problema (25 Pts)}
+El sistema de transporte público urbano del Gran Santiago (Red Movilidad), coordinado por el Directorio de Transporte Público Metropolitano (DTPM), opera con una flota de más de 6.500 buses que cubren cientos de servicios en las comunas de la Región Metropolitana servidas por el sistema. La operación diaria se caracteriza por fluctuaciones temporales y asimetrías espaciales complejas: marcados picos de demanda durante las horas punta (mañana y tarde) y flujos masivos unidireccionales desde comunas residenciales y periféricas (como Puente Alto, Maipú o San Bernardo) hacia polos centrales de actividad económica y servicios (como Santiago Centro, Providencia y Las Condes).
+
+Actualmente, las respuestas operativas ante desbalances de oferta y demanda suelen basarse en programaciones históricas estáticas o ajustes reactivos, lo que dificulta mitigar oportunamente la saturación de paraderos y los tiempos de espera excesivos en puntos neurálgicos de la capital.
+
+% -------------------------------------------------------------------------
+% 2. JUSTIFICACIÓN E IMPACTO
+% -------------------------------------------------------------------------
+\section*{\color{primary}2. Justificación e Impacto (25 Pts)}
+Predecir con precisión anticipada el volumen de validaciones por franja horaria a nivel comunal otorga valor táctico y estratégico directo al stakeholder principal (\textbf{DTPM / Planificación de Rutas}):
+\begin{itemize}
+    \item \textbf{Optimización de Frecuencias y Flota:} Facilita la inyección dinámica y preventiva de buses en cabezales y paradas críticas antes de los periodos de colapso, mejorando la regularidad del servicio.
+    \item \textbf{Eficiencia Económica y Ambiental:} Reduce el kilometraje en vacío y la sobreoferta vehicular en comunas o ventanas horarias de baja demanda, disminuyendo el consumo de energía/combustible y las emisiones contaminantes asociadas.
+    \item \textbf{Impacto Social y Calidad de Servicio:} Disminuye los tiempos de espera de los usuarios en paraderos y reduce los niveles de hacinamiento en los vehículos, impactando positivamente en la experiencia de viaje cotidiana de millones de personas.
+\end{itemize}
+
+% -------------------------------------------------------------------------
+% 3. ENFOQUE PROPUESTO Y METODOLOGÍA
+% -------------------------------------------------------------------------
+\section*{\color{primary}3. Enfoque Propuesto y Metodología (25 Pts)}
+
+\subsection*{3.1. Tipo de Problema y Justificación del Enfoque}
+El proyecto se formula como un problema de \textbf{regresión sobre series de tiempo multivariadas}, cuya variable objetivo es continua: la cantidad de subidas (validaciones bip!) por paradero, franja horaria de 30 minutos y tipo de día. Se elige este enfoque porque la demanda de transporte exhibe dependencia temporal estructurada —patrones diarios, semanales y estacionales— que deben ser modelados explícitamente para generar predicciones útiles. Enfoques alternativos como clasificación (variable de salida discreta) o clustering (sin variable objetivo definida) no son adecuados para este problema de predicción cuantitativa.
+
+Se adopta el marco metodológico \textbf{CRISP-DM} (\textit{Cross-Industry Standard Process for Data Mining}) por ser el estándar más extendido en proyectos de Ciencia de Datos aplicada, al estructurar iterativamente las fases de comprensión del negocio, preparación de datos, modelamiento, evaluación y despliegue; facilitando la trazabilidad y reproducibilidad del proceso.
+
+\subsection*{3.2. Fuentes de Datos}
+Los datos provienen del portal de \textbf{Matrices de Viaje} del DTPM (\url{https://www.dtpm.cl}), construidas a partir del cruce de registros GPS de la flota de buses y transacciones de la tarjeta bip!. Se cuenta con \textbf{tres tipos de tablas} para \textbf{cuatro cortes temporales} (noviembre 2024, abril y noviembre 2025, y abril 2026), resumidas en la Tabla~\ref{tab:fuentes}.
+
+\begin{table}[h!]
+\centering
+\small
+\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\textwidth}{@{}l l l X@{}}
+\toprule
+\rowcolor{primary!12}
+\textbf{Tabla} & \textbf{Formato} & \textbf{Granularidad} & \textbf{Descripción y uso en el proyecto} \\
+\midrule
+Etapas (\textit{principal}) & \texttt{.csv.gz} & Individual por etapa & Registros de cada etapa de viaje con 35 campos. Para abril 2026: 7 archivos diarios, $>$5M etapas/día hábil y $\sim$1{,}6M en domingo (razón 3{,}2$\times$). Sin valores nulos en columnas clave. \\
+\addlinespace
+Viajes & \texttt{.csv.gz} & Viaje completo & Agrupa hasta 4 etapas encadenadas en 101 campos. Incluye propósito del viaje (Hogar 39\%, Trabajo 26\%, Estudio 14\%, Otros 20\%) y flujos O-D por comuna. \\
+\addlinespace
+Subidas por Paradero & \texttt{.xlsx/.xlsb} & Promedio semanal & Agrega subidas por paradero en 48 franjas de 30 min, por tipo de día. Disponible para los 4 cortes (nov 2024, abr/nov 2025, abr 2026). Complementa las Etapas para análisis histórico.\\
+\addlinespace
+GTFS Red Movilidad & \texttt{.txt} & Estático & Mapeo geoespacial de paraderos a comunas; se usa para imputación cuando el campo \texttt{comuna\_subida} no está disponible. \\
+\bottomrule
+\end{tabularx}
+\caption{Resumen de fuentes de datos disponibles.}
+\label{tab:fuentes}
+\end{table}
+
+\noindent Las columnas de la Tabla de Etapas más relevantes para la construcción del modelo se detallan en la Tabla~\ref{tab:columnas}.
+
+\begin{table}[h!]
+\centering
+\small
+\renewcommand{\arraystretch}{1.25}
+\begin{tabular}{@{}l l p{7cm}@{}}
+\toprule
+\rowcolor{primary!12}
+\textbf{Campo} & \textbf{Tipo} & \textbf{Descripción / Rol en el modelo} \\
+\midrule
+\texttt{media\_hora\_subida}        & Categórico & Franja horaria de 30 min en que ocurre la subida (00:00 a 23:30, 48 franjas por día) — \textbf{variable temporal principal} del modelo \\
+\texttt{comuna\_subida}             & Categórico & Nombre de la comuna en que se produce la subida al bus — \textbf{dimensión espacial} del modelo (39 comunas verificadas) \\
+\texttt{tipo\_dia}                  & Categórico & Tipo de jornada: \texttt{LABORAL}, \texttt{SABADO} o \texttt{DOMINGO}. Captura la estacionalidad semanal: la demanda laboral triplica la del domingo \\
+\texttt{tipo\_transporte}           & Categórico & Modo de transporte: \texttt{BUS}, \texttt{METRO}, \texttt{ZP} (Zona Paga) o \texttt{METROTREN}. Se filtra \texttt{BUS} para el alcance del proyecto \\
+\texttt{periodoSubida}              & Categórico & Etiqueta del período operacional (ej.\ Punta Mañana, Fuera de Punta, Punta Tarde). Provista directamente por el DTPM; sirve como feature semántico sin calcular horarios manualmente \\
+\texttt{fExpansionServicioPeriodoTS}& Numérico   & \textbf{Factor de expansión}: coeficiente pre-calculado y provisto directamente por el DTPM. Resulta de cruzar las validaciones bip! con el registro GPS de los buses para compensar la evasión y las fallas de cobertura. Escala cada transacción registrada al número estimado de pasajeros reales en ese servicio y período. Al sumar este factor, se obtiene la \textbf{demanda estimada total} (no solo la muestra que pagó). Media verificada: $\bar{x}=0{,}99$; máx. verificado: 122{,}0 (requiere winsorización) \\
+\texttt{comuna\_bajada}             & Categórico & Comuna donde se baja el pasajero — permite construir matrices Origen-Destino (O-D). Limitación verificada: \textbf{29{,}4\% de valores ausentes en BUS}, porque la bajada se infiere indirectamente del siguiente viaje registrado y no siempre es posible estimarla \\
+\bottomrule
+\end{tabular}
+\caption{Columnas clave de la Tabla de Etapas para el modelo predictivo.}
+\label{tab:columnas}
+\end{table}
+
+\vspace{0.5em}
+\begin{tcolorbox}[colback=primary!5, colframe=primary, title=\textbf{Nota Técnica: Estimación de Demanda Real y Factor de Expansión}, arc=1mm]
+\small
+Si el modelo predijera únicamente las validaciones registradas por las tarjetas bip!, los resultados subestimarían sistemáticamente la cantidad real de pasajeros debido a la evasión tarifaria y fallas en los validadores. Para corregir este sesgo, el DTPM realiza un cruce avanzado entre dos fuentes:
+\begin{itemize}[leftmargin=1.5em, topsep=2pt, itemsep=0pt]
+    \item \textbf{Validaciones bip!:} El registro transaccional de pagos.
+    \item \textbf{Registros GPS (AVL):} La posición satelital enviada continuamente por cada bus, lo que permite ubicar en qué paradero físico exacto ocurrió la validación.
+\end{itemize}
+Combinando esta ubicación con estudios en terreno (cámaras de conteo en puertas e inspectores), el DTPM determina tasas de evasión por recorrido, horario y comuna. El resultado es el \textbf{Factor de Expansión} (\texttt{fExpansionServicioPeriodoTS}), un corrector matemático. Por ejemplo: si en un paradero suben 100 personas pero solo 70 validan (30\% de evasión), el factor será $\approx 1{,}42$. Al multiplicar las 70 validaciones por 1,42, se recupera el volumen real de 100 pasajeros. En este proyecto, la suma de este factor sobre todas las transacciones de una comuna y franja horaria constituye la \textbf{variable objetivo} real a predecir.
+\end{tcolorbox}
+\vspace{0.5em}
+
+\noindent\textbf{Exploración preliminar de los datos:} Un análisis inicial sobre la Tabla de Etapas del día hábil 13 de abril de 2026 (5.027.059 etapas en total; 1.929.443 en modo BUS, 38{,}4\%) confirma el \textbf{patrón bimodal de demanda} esperado en sistemas de transporte urbano: la demanda de buses se concentra en dos ventanas de alta actividad separadas por una caída pronunciada a mediodía. Este comportamiento no es aleatorio, sino que refleja los ciclos sociales de la ciudad — la entrada al trabajo/estudio y el retorno a casa —, lo que lo convierte en una señal muy aprendible para los modelos propuestos. Las Tablas~\ref{tab:demanda} y~\ref{tab:comunas} resumen los hallazgos.
+
+\begin{table}[h!]
+\centering
+\small
+\renewcommand{\arraystretch}{1.2}
+\begin{minipage}[t]{0.47\textwidth}
+\centering
+\begin{tabular}{@{}c r@{}}
+\toprule
+\rowcolor{primary!12}
+\textbf{Franja} & \textbf{Subidas est. en Bus} \\
+\midrule
+06:30 & 85.054 \\
+\textbf{07:00} & \textbf{106.293} \textcolor{secondary}{$\blacktriangle$}\\
+\textbf{07:30} & \textbf{101.088} \\
+08:00 & 94.060 \\
+08:30 & 75.695 \\
+\midrule
+17:00 & 71.266 \\
+17:30 & 77.905 \\
+\textbf{18:00} & \textbf{84.473} \textcolor{secondary}{$\blacktriangle$}\\
+18:30 & 68.641 \\
+\bottomrule
+\end{tabular}
+\caption{Picos de demanda en bus, día hábil\newline 13-abr-2026.}
+\label{tab:demanda}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.47\textwidth}
+\centering
+\begin{tabular}{@{}l r@{}}
+\toprule
+\rowcolor{primary!12}
+\textbf{Comuna} & \textbf{Subidas est. (bus)} \\
+\midrule
+Santiago     & 180.663 \\
+Maipú        & 164.935 \\
+Las Condes   & 124.771 \\
+Puente Alto  & 107.973 \\
+La Florida   & 103.105 \\
+Providencia  &  93.758 \\
+Ñuñoa        &  81.451 \\
+Pudahuel     &  74.239 \\
+Quilicura    &  72.885 \\
+Peñalolén    &  66.608 \\
+\bottomrule
+\end{tabular}
+\caption{Top 10 comunas por subidas en\newline bus, día hábil 13-abr-2026.}
+\label{tab:comunas}
+\end{minipage}
+\end{table}
+
+\noindent\textbf{Limitaciones conocidas:} (i) Los datos no incluyen evasión tarifaria (pasajeros sin pago registrado), por lo que la demanda modelada es un piso, no el total real. (ii) Las etapas de buses en zonas sin cobertura GPS (ej.\ túneles) pueden asignarse incorrectamente a paraderos. (iii) La Tabla de Subidas corresponde a promedios de semanas representativas (una por corte); no captura variabilidad intra-mensual, que será abordada con las Tablas de Etapas diarias. (iv) El campo \texttt{comuna\_bajada} presenta un \textbf{29{,}4\%} de valores ausentes en registros BUS (verificado: 567.542 de 1.929.443 etapas), porque la bajada se infiere del siguiente uso registrado de la tarjeta y no siempre puede estimarse; el análisis de bajadas quedará condicionado al tratamiento de este sesgo. (v) El factor \texttt{fExpansionServicioPeriodoTS} presenta \textbf{valores atípicos extremos} (máx. verificado: 122{,}0; 40 registros con valor $>50$ sobre 5M etapas): sin corrección, multiplicar por estos valores infla artificialmente la demanda estimada. Se aplicará \textbf{winsorización} (recorte de valores extremos al percentil 99, equivalente a 2{,}42 en este conjunto) antes de usar el factor.
+
+\subsection*{3.3. Pipeline Técnico y Estrategia de Modelado}
+\begin{itemize}
+    \item \textbf{Preprocesamiento:} Consolidación de los archivos diarios de etapas; filtrado por \texttt{tipo\_transporte = BUS} (39 comunas verificadas); winsorización del factor de expansión para eliminar valores atípicos; agregación por \texttt{(comuna\_subida, media\_hora\_subida, tipo\_dia)} sumando el factor corregido para obtener la demanda estimada real por celda.
+    \item \textbf{Feature Engineering:} Se construirán tres tipos de variables: (a) \textit{variables de calendario} — la franja horaria, tipo de día, feriados nacionales y la etiqueta \texttt{periodoSubida} ya presente en el dato; (b) \textit{retardos autorregresivos} (\textit{lags}) — valores de demanda pasados usados como entrada al modelo, en los instantes $t-1$ (30 min antes), $t-2$ (1 hora antes) y $t-48$ (mismo período del día anterior), ya que la demanda en una franja depende fuertemente de las franjas previas; y (c) \textit{medias móviles} por comuna para suavizar fluctuaciones puntales.
+    \item \textbf{Modelos Evaluados:} Se compararán tres enfoques: (1) un \textbf{modelo base} (media histórica por franja/comuna o SARIMA), que representa la predicción más simple posible y sirve como referencia mínima a superar; (2) \textbf{LightGBM} y (3) \textbf{XGBoost}, dos algoritmos de \textit{gradient boosting} basados en árboles de decisión que destacan en datos tabulares con patrones no lineales y variables categóricas como las de este proyecto.
+    \item \textbf{Validación de Resultados:} Se usará \textit{Time Series Split}: los modelos se entrenan con cortes anteriores (nov 2024, abr/nov 2025) y se prueban en el corte más reciente (abr 2026), respetando el orden temporal para evitar que el modelo aprenda información del futuro. El desempeño se medirá con tres métricas: \textbf{MAE} (error absoluto promedio en pasajeros), \textbf{RMSE} (penaliza errores grandes más que el MAE) y \textbf{MAPE} (error porcentual, interpretable independientemente de la escala de cada comuna).
+\end{itemize}
+
+% -------------------------------------------------------------------------
+% 4. OBJETIVOS DEL PROYECTO
+% -------------------------------------------------------------------------
+\section*{\color{primary}4. Objetivos del Proyecto (25 Pts)}
+
+\subsection*{Objetivo General}
+Desarrollar un modelo predictivo de series de tiempo capaz de pronosticar la demanda de pasajeros en franjas de 30 minutos a nivel comunal en la red de buses del Gran Santiago, utilizando las Matrices de Viaje del DTPM, para apoyar la planificación proactiva de frecuencias y asignación de flota.
+
+\subsection*{Objetivos Específicos}
+\begin{enumerate}
+    \item \textbf{OE1 — Preparación de Datos:} Consolidar y preprocesar las Tablas de Etapas diarias y las Tablas de Subidas del DTPM (cuatro cortes: noviembre 2024, abril y noviembre 2025, y abril 2026), obteniendo un dataset limpio con demanda agregada de buses por \texttt{(comuna, franja 30 min, tipo\_dia)}, cubriendo las comunas de la RM servidas por Red Movilidad, aplicando el factor de expansión para estimar pasajeros reales.
+    \item \textbf{OE2 — Análisis Exploratorio:} Cuantificar y visualizar los patrones temporales y espaciales de la demanda: confirmar el patrón bimodal (punta mañana 07:00, punta tarde 18:00), la estacionalidad semanal (razón hábil/domingo $\geq$3$\times$) y los perfiles diferenciados de al menos cinco comunas representativas (centrales vs. periféricas).
+    \item \textbf{OE3 — Modelamiento:} Diseñar, entrenar y comparar al menos tres modelos predictivos: un modelo base estadístico (media histórica por franja/comunal o SARIMA) y al menos dos modelos de machine learning (LightGBM y XGBoost con features de calendario), documentando hiperparámetros y proceso de ajuste.
+    \item \textbf{OE4 — Evaluación y Validación:} Seleccionar el modelo con mejor desempeño según $MAE$, $RMSE$ y $MAPE$ sobre el conjunto de prueba (corte temporal más reciente), verificando que supere al modelo base en al menos un 10\% en $MAE$.
+    \item \textbf{OE5 — Comunicación de Resultados:} Producir visualizaciones geoespaciales e interpretables de los patrones de demanda predichos, y comunicar los hallazgos operativos al stakeholder (DTPM) mediante un póster técnico en la Feria de Proyectos TIC al cierre del semestre.
+\end{enumerate}
+
+\end{document}

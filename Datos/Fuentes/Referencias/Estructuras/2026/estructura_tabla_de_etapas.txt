@@ -1,0 +1,36 @@
+Campo	Formato	DescripciÃ³n
+operador	integer	Operador (Dic_Operador)
+id_etapa	bigint	Id encriptado de la tarjeta bip!
+correlativo_viajes	integer	nÃºmero del viaje de la tarjeta bip!
+correlativo_etapas	integer	Id de la etapa en el viaje ( correlativo )
+tipo_dia	character varying(10)	Tipo de dÃ­a de la transacciÃ³n
+tipo_transporte	character varying(20)	Tipo de transporte (Bus, metro, metrotren, zona paga)
+fExpansionServicioPeriodoTS	double precision	Valor de expansiÃ³n de la etapa a nivel de servicio, parada y periodo
+tiene_bajada	bit(1)	Identifica si la etapa tiene estimaciÃ³n de bajada
+tiempo2	timestamp without time zone	Tiempo + tiempo de subida estimado en ZP
+tiempo_subida	timestamp without time zone	Tiempo de subida
+tiempo_bajada	timestamp without time zone	Tiempo estimado de bajada
+tiempo_etapa	double precision  	Tiempo de la etapa considera tiempo de bajada menos tiempo de subida
+media_hora_subida	time without time zone	Media hora de tiempo de subida
+media_hora_bajada	time without time zone	Media hora de tiempo de bajada
+x_subida	double precision	Coordenada X de la subida (UTM WSG84)
+y_subida	double precision	Coordenada Y de la subida (UTM WSG84)
+x_bajada	double precision	Coordenada X de la bajada  (UTM WSG84)
+y_bajada	double precision	Coordenada Y de la bajada  (UTM WSG84)
+dist_ruta_paraderos	integer	Distancia en ruta entre parada-subida y parada-bajada
+dist_eucl_paraderos	integer	Distancia euclidiana entre par-subida y par-bajada
+servicio_subida	character varying(20)	Servicio sentido asignado a la subida
+servicio_bajada	character varying(20)	Servicio sentido asignado a la bajada
+parada_subida	character varying(30)	CÃ³digo del paradero de subida
+parada_bajada	character varying(30)	CÃ³digo del paradero de bajada
+comuna_subida	character varying(20)	Comuna del paradero de subida
+comuna_bajada	character varying(20)	Comuna del paradero de bajada
+zona_subida	character varying(10)	Zona777 del paradero de subida
+zona_bajada	character varying(10)	Zona777 del paradero de bajada
+sitio_subida	character varying(50)	Lugar donde fue realizado el bip! (PPU bus, PPU zona paga, estaciÃ³n de metro, estaciÃ³n de metrotren)
+fExpansionZonaPeriodoTS	double precision	Valor de expansiÃ³n de la etapa a nivel de zona y periodo
+tEsperaMediaIntervalo	double precision	Tiempo transcurrido entre el bus que subida y el anterio que pasÃ³ por el paradero, dividido por 2
+periodoSubida	character varying(50)	Periodo asociado a la hora de subida
+periodoBajada	character varying(50)	Periodo asociado a la hora de bajada
+tiempoIniExpedicion	character varying(50)	Tiempo de inicio de la expediciÃ³n
+contrato	integer	CÃ³dificaciÃ³n del tipo de contrato (Dic_tipo_contrato)

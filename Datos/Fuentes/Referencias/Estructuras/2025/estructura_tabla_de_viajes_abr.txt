@@ -1,0 +1,101 @@
+Campo	Formato	DescripciÃ³n
+tipodia	character varying(10)	Tipo de dÃ­a (LABORAL/SABADO/DOMINGO)
+factor_expansion	double precision	Factor de expansiÃ³n en base a matriz OD (zonas777)
+n_etapas	integer	Cantidad de etapas del viaje
+tviaje	double precision	Tiempo de viaje [min] (Se anula por nuevo tiempo mejorado)
+distancia_eucl	double precision	Distancia euclidiana entre subida y bajada del viaje [m]
+distancia_ruta	double precision	Distancia en ruta, suma de la distancia en ruta de cada etapa
+tiempo_inicio_viaje	timestamp without time zone	Tiempo en que se realiza la subida de la primera etapa
+tiempo_fin_viaje	timestamp without time zone	Tiempo en que se realiza la bajada de la Ãºltima etapa
+mediahora_inicio_viaje	time without time zone	Media hora en que se produce el tiempo_subida
+mediahora_fin_viaje	time without time zone	Media hora en que se produce el tiempo_bajada
+periodo_inicio_viaje	character varying(100)	Periodo transantiago en que se produce el tiempo_subida
+periodo_fin_viaje	character varying(100)	Periodo transantiago en que se produce el tiempo_bajada
+tipo_transporte_1	character varying(50)	Tipo de transporte de etapa 1
+tipo_transporte_2	character varying(50)	Tipo de transporte de etapa 2
+tipo_transporte_3	character varying(50)	Tipo de transporte de etapa 3
+tipo_transporte_4	character varying(50)	Tipo de transporte de etapa 4
+srv_1	character varying(500)	Servicio de etapa 1
+srv_2	character varying(500)	Servicio de etapa 2
+srv_3	character varying(500)	Servicio de etapa 3
+srv_4	character varying(500)	Servicio de etapa 4
+paradero_inicio_viaje	character varying(50)	Paradero de la subida de la 1era etapa
+paradero_fin_viaje	character varying(50)	Paradero de bajada de la etapa final
+comuna_inicio_viaje	character varying(20)	Comuna del paradero de subida
+comuna_fin_viaje	character varying(20)	Comuna del paradero de bajada
+zona_inicio_viaje	character varying(20)	Zona 777 de paradero de subida
+zona_fin_viaje	character varying(20)	Zona 777 de paradero de bajada
+modos	character varying(20)	CodificaciÃ³n de los modos del viaje
+tiempo_subida_1	timestamp without time zone	Tiempo de subida de la etapa 1
+tiempo_subida_2	timestamp without time zone	Tiempo de subida de la etapa 2
+tiempo_subida_3	timestamp without time zone	Tiempo de subida de la etapa 3
+tiempo_subida_4	timestamp without time zone	Tiempo de subida de la etapa 4
+tiempo_bajada_1	timestamp without time zone	Tiempo de bajada de la etapa 1
+tiempo_bajada_2	timestamp without time zone	Tiempo de bajada de la etapa 2
+tiempo_bajada_3	timestamp without time zone	Tiempo de bajada de la etapa 3
+tiempo_bajada_4	timestamp without time zone	Tiempo de bajada de la etapa 4
+zona_subida_1	character varying(50)	Zona 777 de subida de etapa 1
+zona_subida_2	character varying(50)	Zona 777 de subida de etapa 2
+zona_subida_3	character varying(50)	Zona 777 de subida de etapa 3
+zona_subida_4	character varying(50)	Zona 777 de subida de etapa 4
+zona_bajada_1	character varying(50)	Zona 777 de bajada de etapa 1
+zona_bajada_2	character varying(50)	Zona 777 de bajada de etapa 2
+zona_bajada_3	character varying(50)	Zona 777 de bajada de etapa 3
+zona_bajada_4	character varying(50)	Zona 777 de bajada de etapa 4
+paradero_subida_1	character varying(50)	Paradero de subida de la etapa 1
+paradero_subida_2	character varying(50)	Paradero de subida de la etapa 2
+paradero_subida_3	character varying(50)	Paradero de subida de la etapa 3
+paradero_subida_4	character varying(50)	Paradero de subida de la etapa 4
+paradero_bajada_1	character varying(50)	Paradero de bajada de la etapa 1
+paradero_bajada_2	character varying(50)	Paradero de bajada de la etapa 2
+paradero_bajada_3	character varying(50)	Paradero de bajada de la etapa 3
+paradero_bajada_4	character varying(50)	Paradero de bajada de la etapa 4
+mediahora_bajada_1	time without time zone	Media hora de bajada de la etapa 1
+mediahora_bajada_2	time without time zone	Media hora de bajada de la etapa 2
+mediahora_bajada_3	time without time zone	Media hora de bajada de la etapa 3
+mediahora_bajada_4	time without time zone	Media hora de bajada de la etapa 4
+periodo_bajada_1	character varying(100)	Periodo de bajada de etapa 1
+periodo_bajada_2	character varying(100)	Periodo de bajada de etapa 2
+periodo_bajada_3	character varying(100)	Periodo de bajada de etapa 3
+periodo_bajada_4	character varying(100)	Periodo de bajada de etapa 4
+id_tarjeta	varying(20)	Id encriptado de la tarjeta bip!
+id_viaje	integer	Correlativo del viaje de la tarjeta bip!
+netapassinbajada	integer	NÃºmero de etapas sin bajada del viaje
+ultimaetapaconbajada	integer	1 si la Ãºltima etapa tiene bajada estimada
+contrato	character varying(50)	Contrato de la transacciÃ³n
+mediahora_inicio_viaje_hora	time without time zone	Media hora en que se produce el tiempo_subida
+mediahora_fin_viaje_hora	time without time zone	Media hora en que se produce el tiempo_bajada
+op_1era_etapa	character varying(10)	Operador de la primera etapa
+op_2da_etapa	character varying(10)	Operador de la segunda etapa
+op_3era_etapa	character varying(10)	Operador de la tercera etapa
+op_4ta_etapa	character varying(10)	Operador de la cuarta etapa
+dt1	double precision	Distancia de trasbordo (caminata) entre etapa1 y etapa2
+dveh_ruta1	double precision	Distancia recorrida en vehÃ­culo en ruta etapa1
+dveh_euc1	double precision	Distancia recorrida en vehÃ­culo euclidiana etapa1
+dt2	double precision	Distancia de trasbordo (caminata) entre etapa2 y etapa3
+dveh_ruta2	double precision	Distancia recorrida en vehÃ­culo en ruta etapa2
+dveh_euc2	double precision	Distancia recorrida en vehÃ­culo euclidiana etapa2
+dt3	double precision	Distancia de trasbordo (caminata) entre etapa3 y etapa4
+dveh_ruta3	double precision	Distancia recorrida en vehÃ­culo en ruta etapa 3
+dveh_euc3	double precision	Distancia recorrida en vehÃ­culo euclidiana etapa 3
+dveh_ruta4	double precision	Distancia recorrida en vehÃ­culo en ruta etapa 4
+dveh_euc4	double precision	Distancia recorrida en vehÃ­culo euclidiana etapa 4
+dtfinal	double precision	Suma de distancia de todos los trasbordos
+dveh_rutafinal	double precision	Suma de distancias total recorrida en vehÃ­culo en ruta
+dveh_eucfinal	double precision	Suma de distancia euclidiana total recorrida en vehÃ­culo
+tipo_corte_etapa_viaje	character varying(50)	Tipo de corte etapa/viaje
+proposito	character varying(50)	PropÃ³sito del viaje
+entrada	double precision	Tiempo de entrada a estaciones de metro [min]
+te0	double precision	Tiempo de espera en la etapa 1 [min]
+tv1	double precision	Tiempo de viaje en vehÃ­culo en la etapa 1 [min]
+tc1	double precision	Tiempo de caminata de la etapa 1 hacia subida etapa 2 [min]
+te1	double precision	Tiempo de espera en la etapa 2 [min]
+tv2	double precision	Tiempo de viaje en vehÃ­culo en la etapa 2 [min]
+tc2	double precision	Tiempo de caminata de la etapa 2 hacia subida etapa 3 [min]
+te2	double precision	Tiempo de espera en la etapa 3 [min]
+tv3	double precision	Tiempo de viaje en vehÃ­culo en la etapa 3 [min]
+tc3	double precision	Tiempo de caminata de la etapa 3 hacia subida etapa 4 [min]
+te3	double precision	Tiempo de espera en la etapa 4 [min]
+tv4	double precision	Tiempo de viaje en vehÃ­culo en la etapa 4 [min]
+egreso	double precision	Tiempo de egreso de estaciones de metro [min]
+tviaje2	double precision	Tiempo de viaje total, la suma de todos los tiempos anteriores [min]

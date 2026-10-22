@@ -1,0 +1,26 @@
+# Datos originales DTPM: mantenerlos localmente, no subirlos a GitHub
+Datos/Fuentes/**/*.xls
+Datos/Fuentes/**/*.xlsb
+Datos/Fuentes/**/*.xlsx
+Datos/Fuentes/**/*.zip
+Datos/Fuentes/**/*.rar
+Datos/Fuentes/**/*.csv
+Datos/Fuentes/**/*.csv.gz
+Datos/Fuentes/**/*.gz
+
+# Archivos de trabajo locales
+.venv/
+venv/
+.env
+.obsidian/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Salidas auxiliares de LaTeX; conservar el .tex y los PDFs de entrega
+*.aux
+*.log
+*.out
+*.synctex.gz
+Etapa_01/fuente_latex/main.pdf
