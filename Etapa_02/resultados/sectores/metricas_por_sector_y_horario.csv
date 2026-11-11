@@ -1,0 +1,25 @@
+sector,modelo,etiqueta,n,MAE,WAPE_pct
+Sur,Último corte,Bajo,460,40.326521739130435,19.60536050223002
+Sur,Último corte,Sin dato completo,165,1.6921212121212121,61.87943262411347
+Sur,Último corte,Medio,570,71.39298245614034,11.370075360906432
+Sur,Último corte,Alto,140,99.28571428571428,6.9324816189489145
+Oriente,Último corte,Bajo,234,21.92991452991453,21.940791161430454
+Oriente,Último corte,Sin dato completo,40,7.055,28.638116500913334
+Oriente,Último corte,Medio,186,265.3354838709677,34.33272532233626
+Oriente,Último corte,Alto,396,155.31919191919195,6.793661411313065
+Sur,Media histórica,Bajo,460,32.69840579710145,15.89683428804949
+Sur,Media histórica,Sin dato completo,165,1.3373737373737373,48.90661938534278
+Sur,Media histórica,Medio,570,69.49964912280703,11.068542325827792
+Sur,Media histórica,Alto,140,118.15904761904761,8.25028486348331
+Oriente,Media histórica,Bajo,234,15.874643874643873,15.882517259268125
+Oriente,Media histórica,Sin dato completo,40,7.1833333333333345,29.159055544279823
+Oriente,Media histórica,Medio,186,188.65161290322578,24.41031976926191
+Oriente,Media histórica,Alto,396,133.36212121212122,5.8332591446974424
+Sur,HistGradientBoosting (lags por corte),Bajo,460,27.49916431644736,13.369142853966249
+Sur,HistGradientBoosting (lags por corte),Sin dato completo,165,1.3305770362508225,48.65806980970428
+Sur,HistGradientBoosting (lags por corte),Medio,570,48.21252440827726,7.67834620438252
+Sur,HistGradientBoosting (lags por corte),Alto,140,79.58967974287187,5.557234450544504
+Oriente,HistGradientBoosting (lags por corte),Bajo,234,15.30485394630926,15.3124447308767
+Oriente,HistGradientBoosting (lags por corte),Sin dato completo,40,6.584741813874547,26.72921377663709
+Oriente,HistGradientBoosting (lags por corte),Medio,186,99.62848431796793,12.891292700349386
+Oriente,HistGradientBoosting (lags por corte),Alto,396,117.05307592982653,5.11990150858942

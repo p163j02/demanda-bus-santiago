@@ -229,6 +229,9 @@ def evaluate_split(train_periods: list[str], test_period: str) -> list[dict[str,
         predictions["HistGradientBoosting (lags por corte)"] = ml_prediction
     results = []
     for model_name, prediction in predictions.items():
+        prediction_rows.append(test.assign(
+            modelo=model_name, prediccion=np.maximum(prediction, 0)
+        ))
         metrics = score_predictions(test[TARGET], prediction)
         results.append({"corte_prueba": test_period, "entrenamiento": ", ".join(train_periods), "modelo": model_name, **metrics})
     return results
@@ -236,6 +239,7 @@ def evaluate_split(train_periods: list[str], test_period: str) -> list[dict[str,
 
 # Validación temporal interna (orientativa) y prueba final bloqueada.
 results = []
+prediction_rows = []
 for train_periods, test_period in [
     ([PERIODS[0]], PERIODS[1]),
     (PERIODS[:2], PERIODS[2]),
@@ -250,6 +254,9 @@ print(metrics_table.to_string(index=False, formatters={
     "MAPE_positivos_pct": "{:,.2f}".format,
 }))
 metrics_table.to_csv(PROCESSED_DIR / "metricas_modelo_inicial.csv", index=False)
+pd.concat(prediction_rows, ignore_index=True).to_csv(
+    PROCESSED_DIR / "predicciones_modelo_inicial.csv", index=False
+)
 
 # %% [markdown]
 # ## 4. Lectura preliminar y limitaciones

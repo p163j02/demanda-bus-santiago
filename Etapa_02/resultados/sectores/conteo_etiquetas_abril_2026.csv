@@ -1,0 +1,7 @@
+sector,tipo_dia,Nulo,Bajo,Medio,Alto,Sin dato completo
+Oriente,DOMINGO,0,15,24,6,3
+Oriente,LABORAL,0,12,3,31,2
+Oriente,SABADO,0,12,4,29,3
+Sur,DOMINGO,0,25,13,0,10
+Sur,LABORAL,0,9,17,14,8
+Sur,SABADO,0,12,27,0,9

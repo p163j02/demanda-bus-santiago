@@ -1,6 +1,6 @@
 # Predicción de demanda de buses en Santiago
 
-Proyecto de Ciencia de Datos para explorar y pronosticar las subidas registradas de buses por comuna, tipo de día y franja de 30 minutos, usando cortes publicados por DTPM. El avance actual incluye preparación de datos, análisis descriptivo, baselines y un primer modelo temporal.
+Proyecto de Ciencia de Datos para explorar y pronosticar las subidas registradas de buses por comuna, tipo de día y franja de 30 minutos, usando cortes publicados por DTPM. La entrega actual compara oriente y sur con media histórica, último observado y etiquetas de intensidad horaria. Los modelos comunales anteriores se conservan como antecedentes.
 
 > **Alcance:** el target es `Subidas_Promedio` de las tablas históricas de Subidas. No representa el total real de pasajeros ni corrige por evasión. Las métricas son preliminares; hay pocos cortes y las combinaciones ausentes tratadas provisionalmente como cero deben validarse.
 
@@ -19,13 +19,13 @@ demanda-bus-santiago/
 
 ## Para empezar
 
-El notebook anotado está en [`Etapa_02/notebooks/etapa_ii_avance.ipynb`](Etapa_02/notebooks/etapa_ii_avance.ipynb). Para ejecutarlo solo se necesita el panel de modelamiento incluido en `Etapa_02/resultados/` y las dependencias de Python (`pandas`, `scikit-learn` y `matplotlib`).
+El notebook principal está en [`Etapa_02/notebooks/etapa_ii_sectorial_simple.ipynb`](Etapa_02/notebooks/etapa_ii_sectorial_simple.ipynb). Solo requiere el panel incluido en `Etapa_02/resultados/`, `pandas` y `matplotlib`. Usa únicamente Subidas y deja las otras fuentes para una fase posterior.
 
 Desde la raíz del repositorio:
 
 ```bash
-uv run --with pandas --with scikit-learn --with matplotlib \
-  python Etapa_02/codigo/etapa_ii_analysis.py
+uv run --with pandas --with matplotlib \
+  python Etapa_02/codigo/pronostico_sectorial_simple.py
 ```
 
 Para regenerar los paneles desde los libros originales:
@@ -44,8 +44,11 @@ Los archivos fuente originales (libros Excel, paquetes ZIP y datos CSV de gran t
 ## Guías y resultados
 
 - [Informe de la propuesta — Etapa I](Etapa_01/entrega/Informe_Etapa_I.pdf)
-- [Notebook anotado — Etapa II](Etapa_02/notebooks/etapa_ii_avance.ipynb)
-- [Guion de presentación — Etapa II](Etapa_02/presentacion/guion_etapa_ii.md)
+- [Notebook principal — Etapa II sectorial](Etapa_02/notebooks/etapa_ii_sectorial_simple.ipynb)
+- [Notebook del avance comunal anterior](Etapa_02/notebooks/etapa_ii_avance.ipynb)
+- [Pronóstico sectorial sencillo y etiquetas horarias](Etapa_02/resultados/sectorial_simple/README.md)
+- Presentación ajustada: [PowerPoint editable](output/presentaciones/etapa_ii_oriente_sur_entrega.pptx) y [PDF](output/presentaciones/etapa_ii_oriente_sur_entrega.pdf)
+- [Guion de la entrega sectorial](Etapa_02/presentacion/guion_sectorial_simple.md)
 - [Panel y métricas preliminares](Etapa_02/resultados/README.md)
 - [Diccionario de salidas](Etapa_02/resultados/DICCIONARIO_SALIDAS.md)
 - [Guía sencilla sobre fuentes y CSV](Documentacion/guia_sencilla_origen_datos_y_csv.md)

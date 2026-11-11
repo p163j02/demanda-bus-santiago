@@ -1,5 +1,7 @@
 # Panel y resultados preliminares — Etapa II
 
+La entrega actual se documenta en [Pronóstico sectorial sencillo](sectorial_simple/README.md). Los resultados comunales descritos abajo corresponden al avance anterior y se conservan como antecedentes.
+
 ## Definición del target
 
 El panel modela `Subidas_Promedio` de los libros **Subidas por Paradero y Estación**. Son subidas observadas/procesadas por el DTPM, no una estimación de todos los pasajeros, y las fichas señalan que no consideran evasión. No se usa `fExpansionServicioPeriodoTS` para el entrenamiento porque solo hay Tabla de Etapas detallada para abril de 2026, no cuatro cortes históricos equivalentes.
@@ -10,6 +12,8 @@ El panel modela `Subidas_Promedio` de los libros **Subidas por Paradero y Estaci
 - `panel_demanda_bus_modelo.csv`: rejilla completa de las **36 comunas presentes en los cuatro cortes** × 3 tipos de día × 48 franjas × 4 cortes (20.736 filas). Excluye `SIN_COMUNA` y comunas que no aparecen en todos los cortes. `relleno_cero=1` marca combinaciones sin fila en la fuente que se han tratado provisionalmente como cero.
 - `panel_quality_report.json`: filas procesadas, cobertura por fuente, comunas y ceros agregados.
 - `metricas_modelo_inicial.csv`: resultados de los baselines y del primer HistGradientBoosting bajo evaluación temporal.
+- `predicciones_modelo_inicial.csv`: predicciones por celda y modelo en cada prueba temporal, para evaluar los mismos pronósticos por sector.
+- `sectores/`: [comparación oriente/sur, etiquetas horarias y métricas desagregadas](sectores/README.md), añadidas según la indicación del profesor.
 - `figuras/`: gráficos generados por el análisis.
 
 Para interpretar columnas, métricas, gráficos y salidas impresas, consulta el [diccionario de salidas](DICCIONARIO_SALIDAS.md).
