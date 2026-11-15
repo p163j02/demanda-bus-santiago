@@ -1,0 +1,1729 @@
+periodo,sector,tipo_dia,media_hora,metodo,observado,prediccion,etiqueta_real,etiqueta_predicha,cobertura_completa,n_antecedentes,ultimo_antecedente,q1,q2
+2025-04,Oriente,DOMINGO,00:00,Media histórica,978.0,926.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,00:00,Último observado,978.0,926.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,00:30,Media histórica,579.0,568.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,00:30,Último observado,579.0,568.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,01:00,Media histórica,369.0,408.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,01:00,Último observado,369.0,408.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,01:30,Media histórica,,191.0,Sin dato completo,Bajo,False,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,01:30,Último observado,,191.0,Sin dato completo,Bajo,False,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,02:00,Media histórica,183.0,189.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,02:00,Último observado,183.0,189.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,02:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Oriente,DOMINGO,02:30,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Oriente,DOMINGO,03:00,Media histórica,,122.0,Sin dato completo,Bajo,False,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,03:00,Último observado,,122.0,Sin dato completo,Bajo,False,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,03:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Oriente,DOMINGO,03:30,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Oriente,DOMINGO,04:00,Media histórica,116.0,,Bajo,Sin historial,True,0,,435.2,1027.0
+2025-04,Oriente,DOMINGO,04:00,Último observado,116.0,,Bajo,Sin historial,True,0,,435.2,1027.0
+2025-04,Oriente,DOMINGO,04:30,Media histórica,84.0,,Bajo,Sin historial,True,0,,435.2,1027.0
+2025-04,Oriente,DOMINGO,04:30,Último observado,84.0,,Bajo,Sin historial,True,0,,435.2,1027.0
+2025-04,Oriente,DOMINGO,05:00,Media histórica,106.0,97.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,05:00,Último observado,106.0,97.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,05:30,Media histórica,267.0,212.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,05:30,Último observado,267.0,212.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,06:00,Media histórica,699.0,611.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,06:00,Último observado,699.0,611.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,06:30,Media histórica,1225.0,1378.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,06:30,Último observado,1225.0,1378.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,07:00,Media histórica,2538.0,2039.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,07:00,Último observado,2538.0,2039.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,07:30,Media histórica,2816.0,2616.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,07:30,Último observado,2816.0,2616.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,08:00,Media histórica,4374.0,3201.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,08:00,Último observado,4374.0,3201.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,08:30,Media histórica,4677.0,4058.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,08:30,Último observado,4677.0,4058.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,09:00,Media histórica,4697.0,5287.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,09:00,Último observado,4697.0,5287.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,09:30,Media histórica,5220.0,6610.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,09:30,Último observado,5220.0,6610.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,10:00,Media histórica,4706.0,7701.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,10:00,Último observado,4706.0,7701.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,10:30,Media histórica,4780.0,8570.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,10:30,Último observado,4780.0,8570.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,11:00,Media histórica,4412.0,9060.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,11:00,Último observado,4412.0,9060.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,11:30,Media histórica,4433.0,8928.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,11:30,Último observado,4433.0,8928.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,12:00,Media histórica,4448.0,9197.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,12:00,Último observado,4448.0,9197.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,12:30,Media histórica,4859.0,8851.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,12:30,Último observado,4859.0,8851.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,13:00,Media histórica,5132.0,9137.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,13:00,Último observado,5132.0,9137.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,13:30,Media histórica,5427.0,8541.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,13:30,Último observado,5427.0,8541.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,14:00,Media histórica,5352.0,8303.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,14:00,Último observado,5352.0,8303.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,14:30,Media histórica,4750.0,7972.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,14:30,Último observado,4750.0,7972.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,15:00,Media histórica,5165.0,7607.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,15:00,Último observado,5165.0,7607.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,15:30,Media histórica,4885.0,7145.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,15:30,Último observado,4885.0,7145.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,16:00,Media histórica,5298.0,7011.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,16:00,Último observado,5298.0,7011.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,16:30,Media histórica,5465.0,6764.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,16:30,Último observado,5465.0,6764.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,17:00,Media histórica,5895.0,6470.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,17:00,Último observado,5895.0,6470.0,Medio,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,17:30,Media histórica,6272.0,5546.0,Alto,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,17:30,Último observado,6272.0,5546.0,Alto,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,18:00,Media histórica,6726.0,4731.0,Alto,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,18:00,Último observado,6726.0,4731.0,Alto,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,18:30,Media histórica,6931.0,4645.0,Alto,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,18:30,Último observado,6931.0,4645.0,Alto,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,19:00,Media histórica,6883.0,4939.0,Alto,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,19:00,Último observado,6883.0,4939.0,Alto,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,19:30,Media histórica,6743.0,5001.0,Alto,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,19:30,Último observado,6743.0,5001.0,Alto,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,20:00,Media histórica,7308.0,5777.0,Alto,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,20:00,Último observado,7308.0,5777.0,Alto,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,20:30,Media histórica,6248.0,4173.0,Alto,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,20:30,Último observado,6248.0,4173.0,Alto,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,21:00,Media histórica,4111.0,3386.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,21:00,Último observado,4111.0,3386.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,21:30,Media histórica,3092.0,2753.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,21:30,Último observado,3092.0,2753.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,22:00,Media histórica,2389.0,2122.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,22:00,Último observado,2389.0,2122.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,22:30,Media histórica,1342.0,1229.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,22:30,Último observado,1342.0,1229.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,23:00,Media histórica,796.0,808.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,23:00,Último observado,796.0,808.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,23:30,Media histórica,374.0,431.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,DOMINGO,23:30,Último observado,374.0,431.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,00:00,Media histórica,310.20000000000005,435.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,00:00,Último observado,310.20000000000005,435.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,00:30,Media histórica,292.8,247.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,00:30,Último observado,292.8,247.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,01:00,Media histórica,167.8,133.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,01:00,Último observado,167.8,133.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,01:30,Media histórica,106.2,43.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,01:30,Último observado,106.2,43.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,02:00,Media histórica,61.4,36.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,02:00,Último observado,61.4,36.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,02:30,Media histórica,37.599999999999994,15.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,02:30,Último observado,37.599999999999994,15.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,03:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Oriente,LABORAL,03:00,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Oriente,LABORAL,03:30,Media histórica,,6.0,Sin dato completo,Bajo,False,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,03:30,Último observado,,6.0,Sin dato completo,Bajo,False,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,04:00,Media histórica,36.4,17.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,04:00,Último observado,36.4,17.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,04:30,Media histórica,53.0,24.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,04:30,Último observado,53.0,24.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,05:00,Media histórica,212.39999999999998,149.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,05:00,Último observado,212.39999999999998,149.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,05:30,Media histórica,1469.6,1219.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,05:30,Último observado,1469.6,1219.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,06:00,Media histórica,5095.0,4624.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,06:00,Último observado,5095.0,4624.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,06:30,Media histórica,15063.2,13653.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,06:30,Último observado,15063.2,13653.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,07:00,Media histórica,25173.0,22920.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,07:00,Último observado,25173.0,22920.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,07:30,Media histórica,28267.4,25621.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,07:30,Último observado,28267.4,25621.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,08:00,Media histórica,29443.6,28533.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,08:00,Último observado,29443.6,28533.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,08:30,Media histórica,25892.4,25380.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,08:30,Último observado,25892.4,25380.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,09:00,Media histórica,21365.4,20893.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,09:00,Último observado,21365.4,20893.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,09:30,Media histórica,17863.6,17062.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,09:30,Último observado,17863.6,17062.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,10:00,Media histórica,14958.0,14501.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,10:00,Último observado,14958.0,14501.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,10:30,Media histórica,13130.2,12857.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,10:30,Último observado,13130.2,12857.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,11:00,Media histórica,13072.8,12447.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,11:00,Último observado,13072.8,12447.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,11:30,Media histórica,12981.2,12453.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,11:30,Último observado,12981.2,12453.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,12:00,Media histórica,13216.6,13086.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,12:00,Último observado,13216.6,13086.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,12:30,Media histórica,14245.6,13641.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,12:30,Último observado,14245.6,13641.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,13:00,Media histórica,15796.0,15616.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,13:00,Último observado,15796.0,15616.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,13:30,Media histórica,15832.8,15692.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,13:30,Último observado,15832.8,15692.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,14:00,Media histórica,16805.6,16141.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,14:00,Último observado,16805.6,16141.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,14:30,Media histórica,16258.4,15389.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,14:30,Último observado,16258.4,15389.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,15:00,Media histórica,17644.2,16329.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,15:00,Último observado,17644.2,16329.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,15:30,Media histórica,18476.2,17231.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,15:30,Último observado,18476.2,17231.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,16:00,Media histórica,21349.4,19614.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,16:00,Último observado,21349.4,19614.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,16:30,Media histórica,23128.4,21203.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,16:30,Último observado,23128.4,21203.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,17:00,Media histórica,27530.2,25328.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,17:00,Último observado,27530.2,25328.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,17:30,Media histórica,27786.2,25760.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,17:30,Último observado,27786.2,25760.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,18:00,Media histórica,29662.8,28645.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,18:00,Último observado,29662.8,28645.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,18:30,Media histórica,24543.0,24148.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,18:30,Último observado,24543.0,24148.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,19:00,Media histórica,20721.0,21293.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,19:00,Último observado,20721.0,21293.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,19:30,Media histórica,14719.6,15647.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,19:30,Último observado,14719.6,15647.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,20:00,Media histórica,13551.6,14557.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,20:00,Último observado,13551.6,14557.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,20:30,Media histórica,9878.4,10805.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,20:30,Último observado,9878.4,10805.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,21:00,Media histórica,7965.8,8695.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,21:00,Último observado,7965.8,8695.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,21:30,Media histórica,6083.6,6162.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,21:30,Último observado,6083.6,6162.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,22:00,Media histórica,4982.6,5050.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,22:00,Último observado,4982.6,5050.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,22:30,Media histórica,2630.4,2614.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,22:30,Último observado,2630.4,2614.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,23:00,Media histórica,1783.4,1912.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,23:00,Último observado,1783.4,1912.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,23:30,Media histórica,1065.8,1284.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,LABORAL,23:30,Último observado,1065.8,1284.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,00:00,Media histórica,1082.0,1205.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,00:00,Último observado,1082.0,1205.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,00:30,Media histórica,705.0,762.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,00:30,Último observado,705.0,762.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,01:00,Media histórica,439.0,456.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,01:00,Último observado,439.0,456.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,01:30,Media histórica,274.0,325.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,01:30,Último observado,274.0,325.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,02:00,Media histórica,,231.0,Sin dato completo,Bajo,False,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,02:00,Último observado,,231.0,Sin dato completo,Bajo,False,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,02:30,Media histórica,,247.0,Sin dato completo,Bajo,False,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,02:30,Último observado,,247.0,Sin dato completo,Bajo,False,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,03:00,Media histórica,163.0,193.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,03:00,Último observado,163.0,193.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,03:30,Media histórica,,131.0,Sin dato completo,Bajo,False,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,03:30,Último observado,,131.0,Sin dato completo,Bajo,False,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,04:00,Media histórica,96.0,,Bajo,Sin historial,True,0,,435.2,1027.0
+2025-04,Oriente,SABADO,04:00,Último observado,96.0,,Bajo,Sin historial,True,0,,435.2,1027.0
+2025-04,Oriente,SABADO,04:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Oriente,SABADO,04:30,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Oriente,SABADO,05:00,Media histórica,198.0,160.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,05:00,Último observado,198.0,160.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,05:30,Media histórica,625.0,605.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,05:30,Último observado,625.0,605.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,06:00,Media histórica,1686.0,1776.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,06:00,Último observado,1686.0,1776.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,06:30,Media histórica,3303.0,3463.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,06:30,Último observado,3303.0,3463.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,07:00,Media histórica,7173.0,7441.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,07:00,Último observado,7173.0,7441.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,07:30,Media histórica,7907.0,7672.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,07:30,Último observado,7907.0,7672.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,08:00,Media histórica,8820.0,8681.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,08:00,Último observado,8820.0,8681.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,08:30,Media histórica,9332.0,9175.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,08:30,Último observado,9332.0,9175.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,09:00,Media histórica,9307.0,9704.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,09:00,Último observado,9307.0,9704.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,09:30,Media histórica,9884.0,9726.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,09:30,Último observado,9884.0,9726.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,10:00,Media histórica,8392.0,8528.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,10:00,Último observado,8392.0,8528.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,10:30,Media histórica,8430.0,8610.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,10:30,Último observado,8430.0,8610.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,11:00,Media histórica,8377.0,8086.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,11:00,Último observado,8377.0,8086.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,11:30,Media histórica,8487.0,8497.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,11:30,Último observado,8487.0,8497.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,12:00,Media histórica,9459.0,9104.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,12:00,Último observado,9459.0,9104.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,12:30,Media histórica,9616.0,9522.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,12:30,Último observado,9616.0,9522.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,13:00,Media histórica,11570.0,11066.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,13:00,Último observado,11570.0,11066.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,13:30,Media histórica,11173.0,10595.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,13:30,Último observado,11173.0,10595.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,14:00,Media histórica,11985.0,11288.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,14:00,Último observado,11985.0,11288.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,14:30,Media histórica,10708.0,9875.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,14:30,Último observado,10708.0,9875.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,15:00,Media histórica,10630.0,9597.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,15:00,Último observado,10630.0,9597.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,15:30,Media histórica,9655.0,8877.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,15:30,Último observado,9655.0,8877.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,16:00,Media histórica,9639.0,8690.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,16:00,Último observado,9639.0,8690.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,16:30,Media histórica,9123.0,8371.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,16:30,Último observado,9123.0,8371.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,17:00,Media histórica,9570.0,8530.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,17:00,Último observado,9570.0,8530.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,17:30,Media histórica,9077.0,8370.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,17:30,Último observado,9077.0,8370.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,18:00,Media histórica,9756.0,8704.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,18:00,Último observado,9756.0,8704.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,18:30,Media histórica,9523.0,8326.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,18:30,Último observado,9523.0,8326.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,19:00,Media histórica,9553.0,9061.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,19:00,Último observado,9553.0,9061.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,19:30,Media histórica,8191.0,8446.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,19:30,Último observado,8191.0,8446.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,20:00,Media histórica,8856.0,9575.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,20:00,Último observado,8856.0,9575.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,20:30,Media histórica,7150.0,8971.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,20:30,Último observado,7150.0,8971.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,21:00,Media histórica,6959.0,7182.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,21:00,Último observado,6959.0,7182.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,21:30,Media histórica,4977.0,4990.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,21:30,Último observado,4977.0,4990.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,22:00,Media histórica,4385.0,4070.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,22:00,Último observado,4385.0,4070.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,22:30,Media histórica,2791.0,2741.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,22:30,Último observado,2791.0,2741.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,23:00,Media histórica,1961.0,2063.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,23:00,Último observado,1961.0,2063.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,23:30,Media histórica,1453.0,1398.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Oriente,SABADO,23:30,Último observado,1453.0,1398.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,00:00,Media histórica,73.0,92.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,00:00,Último observado,73.0,92.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,00:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,DOMINGO,00:30,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,DOMINGO,01:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,DOMINGO,01:00,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,DOMINGO,01:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,DOMINGO,01:30,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,DOMINGO,02:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,DOMINGO,02:00,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,DOMINGO,02:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,DOMINGO,02:30,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,DOMINGO,03:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,DOMINGO,03:00,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,DOMINGO,03:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,DOMINGO,03:30,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,DOMINGO,04:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,DOMINGO,04:00,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,DOMINGO,04:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,DOMINGO,04:30,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,DOMINGO,05:00,Media histórica,82.0,,Bajo,Sin historial,True,0,,435.2,1027.0
+2025-04,Sur,DOMINGO,05:00,Último observado,82.0,,Bajo,Sin historial,True,0,,435.2,1027.0
+2025-04,Sur,DOMINGO,05:30,Media histórica,505.0,355.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,05:30,Último observado,505.0,355.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,06:00,Media histórica,1102.0,729.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,06:00,Último observado,1102.0,729.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,06:30,Media histórica,1588.0,1317.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,06:30,Último observado,1588.0,1317.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,07:00,Media histórica,2397.0,1679.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,07:00,Último observado,2397.0,1679.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,07:30,Media histórica,2738.0,2214.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,07:30,Último observado,2738.0,2214.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,08:00,Media histórica,3190.0,2915.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,08:00,Último observado,3190.0,2915.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,08:30,Media histórica,3441.0,4056.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,08:30,Último observado,3441.0,4056.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,09:00,Media histórica,3550.0,5114.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,09:00,Último observado,3550.0,5114.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,09:30,Media histórica,3924.0,6241.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,09:30,Último observado,3924.0,6241.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,10:00,Media histórica,4064.0,6827.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,10:00,Último observado,4064.0,6827.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,10:30,Media histórica,3856.0,7245.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,10:30,Último observado,3856.0,7245.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,11:00,Media histórica,3892.0,7754.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,11:00,Último observado,3892.0,7754.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,11:30,Media histórica,3902.0,7648.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,11:30,Último observado,3902.0,7648.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,12:00,Media histórica,3939.0,7273.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,12:00,Último observado,3939.0,7273.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,12:30,Media histórica,4067.0,7245.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,12:30,Último observado,4067.0,7245.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,13:00,Media histórica,4157.0,6949.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,13:00,Último observado,4157.0,6949.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,13:30,Media histórica,4074.0,6574.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,13:30,Último observado,4074.0,6574.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,14:00,Media histórica,4263.0,5841.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,14:00,Último observado,4263.0,5841.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,14:30,Media histórica,3855.0,5223.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,14:30,Último observado,3855.0,5223.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,15:00,Media histórica,3649.0,5097.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,15:00,Último observado,3649.0,5097.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,15:30,Media histórica,3378.0,5477.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,15:30,Último observado,3378.0,5477.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,16:00,Media histórica,3542.0,5300.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,16:00,Último observado,3542.0,5300.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,16:30,Media histórica,3649.0,5083.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,16:30,Último observado,3649.0,5083.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,17:00,Media histórica,3890.0,4842.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,17:00,Último observado,3890.0,4842.0,Bajo,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,17:30,Media histórica,4020.0,4284.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,17:30,Último observado,4020.0,4284.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,18:00,Media histórica,4079.0,3614.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,18:00,Último observado,4079.0,3614.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,18:30,Media histórica,4110.0,3263.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,18:30,Último observado,4110.0,3263.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,19:00,Media histórica,3603.0,3320.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,19:00,Último observado,3603.0,3320.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,19:30,Media histórica,3240.0,2956.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,19:30,Último observado,3240.0,2956.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,20:00,Media histórica,2795.0,2775.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,20:00,Último observado,2795.0,2775.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,20:30,Media histórica,2519.0,2724.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,20:30,Último observado,2519.0,2724.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,21:00,Media histórica,2079.0,2311.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,21:00,Último observado,2079.0,2311.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,21:30,Media histórica,1449.0,1802.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,21:30,Último observado,1449.0,1802.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,22:00,Media histórica,956.0,1137.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,22:00,Último observado,956.0,1137.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,22:30,Media histórica,562.0,737.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,22:30,Último observado,562.0,737.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,23:00,Media histórica,295.0,324.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,23:00,Último observado,295.0,324.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,23:30,Media histórica,75.0,118.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,DOMINGO,23:30,Último observado,75.0,118.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,00:00,Media histórica,16.2,3.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,00:00,Último observado,16.2,3.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,00:30,Media histórica,12.6,2.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,00:30,Último observado,12.6,2.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,01:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,LABORAL,01:00,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,LABORAL,01:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,LABORAL,01:30,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,LABORAL,02:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,LABORAL,02:00,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,LABORAL,02:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,LABORAL,02:30,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,LABORAL,03:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,LABORAL,03:00,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,LABORAL,03:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,LABORAL,03:30,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,LABORAL,04:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,LABORAL,04:00,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,LABORAL,04:30,Media histórica,227.8,149.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,04:30,Último observado,227.8,149.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,05:00,Media histórica,1300.8000000000002,1017.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,05:00,Último observado,1300.8000000000002,1017.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,05:30,Media histórica,6340.6,5471.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,05:30,Último observado,6340.6,5471.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,06:00,Media histórica,11096.0,10186.0,Alto,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,06:00,Último observado,11096.0,10186.0,Alto,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,06:30,Media histórica,16236.4,15165.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,06:30,Último observado,16236.4,15165.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,07:00,Media histórica,20766.0,18728.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,07:00,Último observado,20766.0,18728.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,07:30,Media histórica,19859.6,18609.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,07:30,Último observado,19859.6,18609.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,08:00,Media histórica,17660.6,16270.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,08:00,Último observado,17660.6,16270.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,08:30,Media histórica,14006.2,12476.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,08:30,Último observado,14006.2,12476.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,09:00,Media histórica,11427.8,10666.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,09:00,Último observado,11427.8,10666.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,09:30,Media histórica,9623.6,8662.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,09:30,Último observado,9623.6,8662.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,10:00,Media histórica,8600.8,7642.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,10:00,Último observado,8600.8,7642.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,10:30,Media histórica,8179.8,7193.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,10:30,Último observado,8179.8,7193.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,11:00,Media histórica,7908.0,6819.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,11:00,Último observado,7908.0,6819.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,11:30,Media histórica,7598.4,6701.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,11:30,Último observado,7598.4,6701.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,12:00,Media histórica,7810.2,6817.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,12:00,Último observado,7810.2,6817.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,12:30,Media histórica,8155.6,7111.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,12:30,Último observado,8155.6,7111.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,13:00,Media histórica,8891.6,7619.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,13:00,Último observado,8891.6,7619.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,13:30,Media histórica,8237.6,7118.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,13:30,Último observado,8237.6,7118.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,14:00,Media histórica,7823.8,6685.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,14:00,Último observado,7823.8,6685.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,14:30,Media histórica,7470.2,6302.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,14:30,Último observado,7470.2,6302.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,15:00,Media histórica,7746.0,6462.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,15:00,Último observado,7746.0,6462.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,15:30,Media histórica,8370.2,6738.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,15:30,Último observado,8370.2,6738.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,16:00,Media histórica,8837.2,7247.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,16:00,Último observado,8837.2,7247.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,16:30,Media histórica,9916.8,8031.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,16:30,Último observado,9916.8,8031.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,17:00,Media histórica,11782.8,9781.0,Alto,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,17:00,Último observado,11782.8,9781.0,Alto,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,17:30,Media histórica,13075.4,11352.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,17:30,Último observado,13075.4,11352.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,18:00,Media histórica,13929.6,12850.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,18:00,Último observado,13929.6,12850.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,18:30,Media histórica,12846.6,11944.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,18:30,Último observado,12846.6,11944.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,19:00,Media histórica,11259.6,10781.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,19:00,Último observado,11259.6,10781.0,Alto,Alto,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,19:30,Media histórica,8789.2,8611.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,19:30,Último observado,8789.2,8611.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,20:00,Media histórica,6485.0,6599.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,20:00,Último observado,6485.0,6599.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,20:30,Media histórica,4736.2,5086.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,20:30,Último observado,4736.2,5086.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,21:00,Media histórica,3749.8,3705.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,21:00,Último observado,3749.8,3705.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,21:30,Media histórica,2634.4,2586.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,21:30,Último observado,2634.4,2586.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,22:00,Media histórica,2004.4,1869.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,22:00,Último observado,2004.4,1869.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,22:30,Media histórica,1486.6,1195.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,22:30,Último observado,1486.6,1195.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,23:00,Media histórica,722.6,617.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,23:00,Último observado,722.6,617.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,23:30,Media histórica,168.4,112.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,LABORAL,23:30,Último observado,168.4,112.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,00:00,Media histórica,89.0,106.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,00:00,Último observado,89.0,106.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,00:30,Media histórica,47.0,,Bajo,Sin historial,True,0,,435.2,1027.0
+2025-04,Sur,SABADO,00:30,Último observado,47.0,,Bajo,Sin historial,True,0,,435.2,1027.0
+2025-04,Sur,SABADO,01:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,SABADO,01:00,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,SABADO,01:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,SABADO,01:30,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,SABADO,02:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,SABADO,02:00,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,SABADO,02:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,SABADO,02:30,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,SABADO,03:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,SABADO,03:00,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,SABADO,03:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,SABADO,03:30,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,SABADO,04:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,SABADO,04:00,Último observado,,,Sin dato completo,Sin historial,False,0,,435.2,1027.0
+2025-04,Sur,SABADO,04:30,Media histórica,88.0,73.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,04:30,Último observado,88.0,73.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,05:00,Media histórica,334.0,343.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,05:00,Último observado,334.0,343.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,05:30,Media histórica,1762.0,1571.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,05:30,Último observado,1762.0,1571.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,06:00,Media histórica,3591.0,3575.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,06:00,Último observado,3591.0,3575.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,06:30,Media histórica,5031.0,5307.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,06:30,Último observado,5031.0,5307.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,07:00,Media histórica,6197.0,6177.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,07:00,Último observado,6197.0,6177.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,07:30,Media histórica,6301.0,6247.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,07:30,Último observado,6301.0,6247.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,08:00,Media histórica,6542.0,6656.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,08:00,Último observado,6542.0,6656.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,08:30,Media histórica,6690.0,6646.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,08:30,Último observado,6690.0,6646.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,09:00,Media histórica,6573.0,7104.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,09:00,Último observado,6573.0,7104.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,09:30,Media histórica,6394.0,6824.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,09:30,Último observado,6394.0,6824.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,10:00,Media histórica,6190.0,6377.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,10:00,Último observado,6190.0,6377.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,10:30,Media histórica,6307.0,6410.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,10:30,Último observado,6307.0,6410.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,11:00,Media histórica,6288.0,6364.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,11:00,Último observado,6288.0,6364.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,11:30,Media histórica,6061.0,6295.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,11:30,Último observado,6061.0,6295.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,12:00,Media histórica,6482.0,6445.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,12:00,Último observado,6482.0,6445.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,12:30,Media histórica,6618.0,6344.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,12:30,Último observado,6618.0,6344.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,13:00,Media histórica,6756.0,6652.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,13:00,Último observado,6756.0,6652.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,13:30,Media histórica,6499.0,5976.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,13:30,Último observado,6499.0,5976.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,14:00,Media histórica,6499.0,6184.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,14:00,Último observado,6499.0,6184.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,14:30,Media histórica,6223.0,5946.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,14:30,Último observado,6223.0,5946.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,15:00,Media histórica,5857.0,5238.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,15:00,Último observado,5857.0,5238.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,15:30,Media histórica,5583.0,5023.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,15:30,Último observado,5583.0,5023.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,16:00,Media histórica,5601.0,4956.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,16:00,Último observado,5601.0,4956.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,16:30,Media histórica,5244.0,4791.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,16:30,Último observado,5244.0,4791.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,17:00,Media histórica,5190.0,4902.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,17:00,Último observado,5190.0,4902.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,17:30,Media histórica,5276.0,4838.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,17:30,Último observado,5276.0,4838.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,18:00,Media histórica,5315.0,5054.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,18:00,Último observado,5315.0,5054.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,18:30,Media histórica,5113.0,5027.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,18:30,Último observado,5113.0,5027.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,19:00,Media histórica,4681.0,4709.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,19:00,Último observado,4681.0,4709.0,Medio,Medio,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,19:30,Media histórica,3932.0,4303.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,19:30,Último observado,3932.0,4303.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,20:00,Media histórica,3680.0,4352.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,20:00,Último observado,3680.0,4352.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,20:30,Media histórica,3212.0,4111.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,20:30,Último observado,3212.0,4111.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,21:00,Media histórica,2714.0,3649.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,21:00,Último observado,2714.0,3649.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,21:30,Media histórica,2061.0,2788.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,21:30,Último observado,2061.0,2788.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,22:00,Media histórica,1560.0,1825.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,22:00,Último observado,1560.0,1825.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,22:30,Media histórica,987.0,1264.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,22:30,Último observado,987.0,1264.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,23:00,Media histórica,607.0,772.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,23:00,Último observado,607.0,772.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,23:30,Media histórica,187.0,315.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-04,Sur,SABADO,23:30,Último observado,187.0,315.0,Bajo,Bajo,True,1,2024-11,435.2,1027.0
+2025-11,Oriente,DOMINGO,00:00,Media histórica,996.0,952.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,00:00,Último observado,996.0,978.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,00:30,Media histórica,606.0,573.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,00:30,Último observado,606.0,579.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,01:00,Media histórica,376.0,388.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,01:00,Último observado,376.0,369.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,01:30,Media histórica,226.0,191.0,Bajo,Bajo,True,1,2024-11,392.4,962.36
+2025-11,Oriente,DOMINGO,01:30,Último observado,226.0,191.0,Bajo,Bajo,True,1,2024-11,392.4,962.36
+2025-11,Oriente,DOMINGO,02:00,Media histórica,142.0,186.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,02:00,Último observado,142.0,183.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,02:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Oriente,DOMINGO,02:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Oriente,DOMINGO,03:00,Media histórica,91.0,122.0,Bajo,Bajo,True,1,2024-11,392.4,962.36
+2025-11,Oriente,DOMINGO,03:00,Último observado,91.0,122.0,Bajo,Bajo,True,1,2024-11,392.4,962.36
+2025-11,Oriente,DOMINGO,03:30,Media histórica,84.0,,Bajo,Sin historial,True,0,,392.4,962.36
+2025-11,Oriente,DOMINGO,03:30,Último observado,84.0,,Bajo,Sin historial,True,0,,392.4,962.36
+2025-11,Oriente,DOMINGO,04:00,Media histórica,,116.0,Sin dato completo,Bajo,False,1,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,04:00,Último observado,,116.0,Sin dato completo,Bajo,False,1,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,04:30,Media histórica,86.0,84.0,Bajo,Bajo,True,1,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,04:30,Último observado,86.0,84.0,Bajo,Bajo,True,1,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,05:00,Media histórica,,101.5,Sin dato completo,Bajo,False,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,05:00,Último observado,,106.0,Sin dato completo,Bajo,False,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,05:30,Media histórica,242.0,239.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,05:30,Último observado,242.0,267.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,06:00,Media histórica,546.0,655.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,06:00,Último observado,546.0,699.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,06:30,Media histórica,1166.0,1301.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,06:30,Último observado,1166.0,1225.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,07:00,Media histórica,1801.0,2288.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,07:00,Último observado,1801.0,2538.0,Bajo,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,07:30,Media histórica,2350.0,2716.0,Bajo,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,07:30,Último observado,2350.0,2816.0,Bajo,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,08:00,Media histórica,3149.0,3787.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,08:00,Último observado,3149.0,4374.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,08:30,Media histórica,3578.0,4367.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,08:30,Último observado,3578.0,4677.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,09:00,Media histórica,4541.0,4992.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,09:00,Último observado,4541.0,4697.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,09:30,Media histórica,5957.0,5915.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,09:30,Último observado,5957.0,5220.0,Alto,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,10:00,Media histórica,7133.0,6203.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,10:00,Último observado,7133.0,4706.0,Alto,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,10:30,Media histórica,7990.0,6675.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,10:30,Último observado,7990.0,4780.0,Alto,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,11:00,Media histórica,8579.0,6736.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,11:00,Último observado,8579.0,4412.0,Alto,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,11:30,Media histórica,8284.0,6680.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,11:30,Último observado,8284.0,4433.0,Alto,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,12:00,Media histórica,8601.0,6822.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,12:00,Último observado,8601.0,4448.0,Alto,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,12:30,Media histórica,8215.0,6855.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,12:30,Último observado,8215.0,4859.0,Alto,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,13:00,Media histórica,8334.0,7134.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,13:00,Último observado,8334.0,5132.0,Alto,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,13:30,Media histórica,8251.0,6984.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,13:30,Último observado,8251.0,5427.0,Alto,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,14:00,Media histórica,7761.0,6827.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,14:00,Último observado,7761.0,5352.0,Alto,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,14:30,Media histórica,7613.0,6361.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,14:30,Último observado,7613.0,4750.0,Alto,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,15:00,Media histórica,6870.0,6386.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,15:00,Último observado,6870.0,5165.0,Alto,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,15:30,Media histórica,6435.0,6015.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,15:30,Último observado,6435.0,4885.0,Alto,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,16:00,Media histórica,6324.0,6154.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,16:00,Último observado,6324.0,5298.0,Alto,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,16:30,Media histórica,5715.0,6114.5,Medio,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,16:30,Último observado,5715.0,5465.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,17:00,Media histórica,5271.0,6182.5,Medio,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,17:00,Último observado,5271.0,5895.0,Medio,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,17:30,Media histórica,4661.0,5909.0,Medio,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,17:30,Último observado,4661.0,6272.0,Medio,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,18:00,Media histórica,4383.0,5728.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,18:00,Último observado,4383.0,6726.0,Medio,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,18:30,Media histórica,3829.0,5788.0,Medio,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,18:30,Último observado,3829.0,6931.0,Medio,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,19:00,Media histórica,4194.0,5911.0,Medio,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,19:00,Último observado,4194.0,6883.0,Medio,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,19:30,Media histórica,4186.0,5872.0,Medio,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,19:30,Último observado,4186.0,6743.0,Medio,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,20:00,Media histórica,5126.0,6542.5,Medio,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,20:00,Último observado,5126.0,7308.0,Medio,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,20:30,Media histórica,3895.0,5210.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,20:30,Último observado,3895.0,6248.0,Medio,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,21:00,Media histórica,3394.0,3748.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,21:00,Último observado,3394.0,4111.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,21:30,Media histórica,2542.0,2922.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,21:30,Último observado,2542.0,3092.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,22:00,Media histórica,2053.0,2255.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,22:00,Último observado,2053.0,2389.0,Bajo,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,22:30,Media histórica,1233.0,1285.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,22:30,Último observado,1233.0,1342.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,23:00,Media histórica,804.0,802.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,23:00,Último observado,804.0,796.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,23:30,Media histórica,399.0,402.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,DOMINGO,23:30,Último observado,399.0,374.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,00:00,Media histórica,655.0,372.6,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,00:00,Último observado,655.0,310.20000000000005,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,00:30,Media histórica,412.4,269.9,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,00:30,Último observado,412.4,292.8,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,01:00,Media histórica,161.2,150.4,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,01:00,Último observado,161.2,167.8,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,01:30,Media histórica,94.80000000000001,74.6,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,01:30,Último observado,94.80000000000001,106.2,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,02:00,Media histórica,,48.7,Sin dato completo,Bajo,False,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,02:00,Último observado,,61.4,Sin dato completo,Bajo,False,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,02:30,Media histórica,36.4,26.299999999999997,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,02:30,Último observado,36.4,37.599999999999994,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,03:00,Media histórica,27.400000000000002,,Bajo,Sin historial,True,0,,392.4,962.36
+2025-11,Oriente,LABORAL,03:00,Último observado,27.400000000000002,,Bajo,Sin historial,True,0,,392.4,962.36
+2025-11,Oriente,LABORAL,03:30,Media histórica,19.8,6.0,Bajo,Bajo,True,1,2024-11,392.4,962.36
+2025-11,Oriente,LABORAL,03:30,Último observado,19.8,6.0,Bajo,Bajo,True,1,2024-11,392.4,962.36
+2025-11,Oriente,LABORAL,04:00,Media histórica,34.6,26.7,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,04:00,Último observado,34.6,36.4,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,04:30,Media histórica,60.2,38.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,04:30,Último observado,60.2,53.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,05:00,Media histórica,263.6,180.7,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,05:00,Último observado,263.6,212.39999999999998,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,05:30,Media histórica,1525.2,1344.3,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,05:30,Último observado,1525.2,1469.6,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,06:00,Media histórica,5336.8,4859.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,06:00,Último observado,5336.8,5095.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,06:30,Media histórica,14674.2,14358.1,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,06:30,Último observado,14674.2,15063.2,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,07:00,Media histórica,24046.6,24046.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,07:00,Último observado,24046.6,25173.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,07:30,Media histórica,27716.2,26944.2,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,07:30,Último observado,27716.2,28267.4,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,08:00,Media histórica,29539.199999999997,28988.3,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,08:00,Último observado,29539.199999999997,29443.6,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,08:30,Media histórica,26411.8,25636.2,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,08:30,Último observado,26411.8,25892.4,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,09:00,Media histórica,21474.800000000003,21129.2,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,09:00,Último observado,21474.800000000003,21365.4,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,09:30,Media histórica,18178.6,17462.8,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,09:30,Último observado,18178.6,17863.6,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,10:00,Media histórica,15437.2,14729.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,10:00,Último observado,15437.2,14958.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,10:30,Media histórica,13475.400000000001,12993.6,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,10:30,Último observado,13475.400000000001,13130.2,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,11:00,Media histórica,13122.2,12759.9,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,11:00,Último observado,13122.2,13072.8,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,11:30,Media histórica,13217.599999999999,12717.1,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,11:30,Último observado,13217.599999999999,12981.2,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,12:00,Media histórica,13837.0,13151.3,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,12:00,Último observado,13837.0,13216.6,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,12:30,Media histórica,14773.8,13943.3,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,12:30,Último observado,14773.8,14245.6,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,13:00,Media histórica,16242.8,15706.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,13:00,Último observado,16242.8,15796.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,13:30,Media histórica,16348.599999999999,15762.4,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,13:30,Último observado,16348.599999999999,15832.8,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,14:00,Media histórica,16719.8,16473.3,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,14:00,Último observado,16719.8,16805.6,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,14:30,Media histórica,16001.8,15823.7,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,14:30,Último observado,16001.8,16258.4,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,15:00,Media histórica,17682.8,16986.6,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,15:00,Último observado,17682.8,17644.2,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,15:30,Media histórica,18344.6,17853.6,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,15:30,Último observado,18344.6,18476.2,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,16:00,Media histórica,21280.2,20481.7,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,16:00,Último observado,21280.2,21349.4,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,16:30,Media histórica,22337.0,22165.7,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,16:30,Último observado,22337.0,23128.4,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,17:00,Media histórica,26483.4,26429.1,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,17:00,Último observado,26483.4,27530.2,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,17:30,Media histórica,26812.6,26773.1,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,17:30,Último observado,26812.6,27786.2,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,18:00,Media histórica,29367.6,29153.9,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,18:00,Último observado,29367.6,29662.8,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,18:30,Media histórica,25096.2,24345.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,18:30,Último observado,25096.2,24543.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,19:00,Media histórica,21904.4,21007.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,19:00,Último observado,21904.4,20721.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,19:30,Media histórica,16670.2,15183.3,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,19:30,Último observado,16670.2,14719.6,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,20:00,Media histórica,15607.599999999999,14054.3,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,20:00,Último observado,15607.599999999999,13551.6,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,20:30,Media histórica,11426.2,10341.7,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,20:30,Último observado,11426.2,9878.4,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,21:00,Media histórica,9833.8,8330.4,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,21:00,Último observado,9833.8,7965.8,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,21:30,Media histórica,6845.6,6122.8,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,21:30,Último observado,6845.6,6083.6,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,22:00,Media histórica,5614.0,5016.3,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,22:00,Último observado,5614.0,4982.6,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,22:30,Media histórica,3016.0,2622.2,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,22:30,Último observado,3016.0,2630.4,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,23:00,Media histórica,2177.8,1847.7,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,23:00,Último observado,2177.8,1783.4,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,23:30,Media histórica,2125.0,1174.9,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,LABORAL,23:30,Último observado,2125.0,1065.8,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,00:00,Media histórica,1076.0,1143.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,00:00,Último observado,1076.0,1082.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,00:30,Media histórica,676.0,733.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,00:30,Último observado,676.0,705.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,01:00,Media histórica,435.0,447.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,01:00,Último observado,435.0,439.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,01:30,Media histórica,290.0,299.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,01:30,Último observado,290.0,274.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,02:00,Media histórica,,231.0,Sin dato completo,Bajo,False,1,2024-11,392.4,962.36
+2025-11,Oriente,SABADO,02:00,Último observado,,231.0,Sin dato completo,Bajo,False,1,2024-11,392.4,962.36
+2025-11,Oriente,SABADO,02:30,Media histórica,156.0,247.0,Bajo,Bajo,True,1,2024-11,392.4,962.36
+2025-11,Oriente,SABADO,02:30,Último observado,156.0,247.0,Bajo,Bajo,True,1,2024-11,392.4,962.36
+2025-11,Oriente,SABADO,03:00,Media histórica,,178.0,Sin dato completo,Bajo,False,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,03:00,Último observado,,163.0,Sin dato completo,Bajo,False,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,03:30,Media histórica,,131.0,Sin dato completo,Bajo,False,1,2024-11,392.4,962.36
+2025-11,Oriente,SABADO,03:30,Último observado,,131.0,Sin dato completo,Bajo,False,1,2024-11,392.4,962.36
+2025-11,Oriente,SABADO,04:00,Media histórica,92.0,96.0,Bajo,Bajo,True,1,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,04:00,Último observado,92.0,96.0,Bajo,Bajo,True,1,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,04:30,Media histórica,98.0,,Bajo,Sin historial,True,0,,392.4,962.36
+2025-11,Oriente,SABADO,04:30,Último observado,98.0,,Bajo,Sin historial,True,0,,392.4,962.36
+2025-11,Oriente,SABADO,05:00,Media histórica,174.0,179.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,05:00,Último observado,174.0,198.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,05:30,Media histórica,646.0,615.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,05:30,Último observado,646.0,625.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,06:00,Media histórica,1768.0,1731.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,06:00,Último observado,1768.0,1686.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,06:30,Media histórica,3146.0,3383.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,06:30,Último observado,3146.0,3303.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,07:00,Media histórica,7177.0,7307.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,07:00,Último observado,7177.0,7173.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,07:30,Media histórica,7685.0,7789.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,07:30,Último observado,7685.0,7907.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,08:00,Media histórica,8707.0,8750.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,08:00,Último observado,8707.0,8820.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,08:30,Media histórica,9278.0,9253.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,08:30,Último observado,9278.0,9332.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,09:00,Media histórica,9452.0,9505.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,09:00,Último observado,9452.0,9307.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,09:30,Media histórica,9924.0,9805.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,09:30,Último observado,9924.0,9884.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,10:00,Media histórica,8711.0,8460.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,10:00,Último observado,8711.0,8392.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,10:30,Media histórica,8462.0,8520.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,10:30,Último observado,8462.0,8430.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,11:00,Media histórica,8113.0,8231.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,11:00,Último observado,8113.0,8377.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,11:30,Media histórica,8437.0,8492.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,11:30,Último observado,8437.0,8487.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,12:00,Media histórica,9162.0,9281.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,12:00,Último observado,9162.0,9459.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,12:30,Media histórica,9546.0,9569.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,12:30,Último observado,9546.0,9616.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,13:00,Media histórica,10618.0,11318.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,13:00,Último observado,10618.0,11570.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,13:30,Media histórica,10860.0,10884.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,13:30,Último observado,10860.0,11173.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,14:00,Media histórica,11198.0,11636.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,14:00,Último observado,11198.0,11985.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,14:30,Media histórica,10494.0,10291.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,14:30,Último observado,10494.0,10708.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,15:00,Media histórica,9924.0,10113.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,15:00,Último observado,9924.0,10630.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,15:30,Media histórica,9231.0,9266.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,15:30,Último observado,9231.0,9655.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,16:00,Media histórica,8774.0,9164.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,16:00,Último observado,8774.0,9639.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,16:30,Media histórica,8728.0,8747.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,16:30,Último observado,8728.0,9123.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,17:00,Media histórica,9139.0,9050.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,17:00,Último observado,9139.0,9570.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,17:30,Media histórica,8739.0,8723.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,17:30,Último observado,8739.0,9077.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,18:00,Media histórica,8701.0,9230.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,18:00,Último observado,8701.0,9756.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,18:30,Media histórica,8540.0,8924.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,18:30,Último observado,8540.0,9523.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,19:00,Media histórica,9038.0,9307.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,19:00,Último observado,9038.0,9553.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,19:30,Media histórica,8680.0,8318.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,19:30,Último observado,8680.0,8191.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,20:00,Media histórica,10262.0,9215.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,20:00,Último observado,10262.0,8856.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,20:30,Media histórica,8875.0,8060.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,20:30,Último observado,8875.0,7150.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,21:00,Media histórica,6750.0,7070.5,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,21:00,Último observado,6750.0,6959.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,21:30,Media histórica,4979.0,4983.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,21:30,Último observado,4979.0,4977.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,22:00,Media histórica,3851.0,4227.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,22:00,Último observado,3851.0,4385.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,22:30,Media histórica,2498.0,2766.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,22:30,Último observado,2498.0,2791.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,23:00,Media histórica,1960.0,2012.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,23:00,Último observado,1960.0,1961.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,23:30,Media histórica,1391.0,1425.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Oriente,SABADO,23:30,Último observado,1391.0,1453.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,00:00,Media histórica,73.0,82.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,00:00,Último observado,73.0,73.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,00:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,DOMINGO,00:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,DOMINGO,01:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,DOMINGO,01:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,DOMINGO,01:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,DOMINGO,01:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,DOMINGO,02:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,DOMINGO,02:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,DOMINGO,02:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,DOMINGO,02:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,DOMINGO,03:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,DOMINGO,03:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,DOMINGO,03:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,DOMINGO,03:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,DOMINGO,04:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,DOMINGO,04:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,DOMINGO,04:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,DOMINGO,04:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,DOMINGO,05:00,Media histórica,67.0,82.0,Bajo,Bajo,True,1,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,05:00,Último observado,67.0,82.0,Bajo,Bajo,True,1,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,05:30,Media histórica,314.0,430.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,05:30,Último observado,314.0,505.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,06:00,Media histórica,690.0,915.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,06:00,Último observado,690.0,1102.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,06:30,Media histórica,1040.0,1452.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,06:30,Último observado,1040.0,1588.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,07:00,Media histórica,1526.0,2038.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,07:00,Último observado,1526.0,2397.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,07:30,Media histórica,1794.0,2476.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,07:30,Último observado,1794.0,2738.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,08:00,Media histórica,2351.0,3052.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,08:00,Último observado,2351.0,3190.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,08:30,Media histórica,3277.0,3748.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,08:30,Último observado,3277.0,3441.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,09:00,Media histórica,4289.0,4332.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,09:00,Último observado,4289.0,3550.0,Medio,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,09:30,Media histórica,4849.0,5082.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,09:30,Último observado,4849.0,3924.0,Medio,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,10:00,Media histórica,5394.0,5445.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,10:00,Último observado,5394.0,4064.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,10:30,Media histórica,5813.0,5550.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,10:30,Último observado,5813.0,3856.0,Medio,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,11:00,Media histórica,5842.0,5823.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,11:00,Último observado,5842.0,3892.0,Medio,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,11:30,Media histórica,6030.0,5775.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,11:30,Último observado,6030.0,3902.0,Medio,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,12:00,Media histórica,5588.0,5606.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,12:00,Último observado,5588.0,3939.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,12:30,Media histórica,5639.0,5656.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,12:30,Último observado,5639.0,4067.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,13:00,Media histórica,5436.0,5553.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,13:00,Último observado,5436.0,4157.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,13:30,Media histórica,5009.0,5324.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,13:30,Último observado,5009.0,4074.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,14:00,Media histórica,4983.0,5052.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,14:00,Último observado,4983.0,4263.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,14:30,Media histórica,4433.0,4539.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,14:30,Último observado,4433.0,3855.0,Medio,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,15:00,Media histórica,4474.0,4373.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,15:00,Último observado,4474.0,3649.0,Medio,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,15:30,Media histórica,4215.0,4427.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,15:30,Último observado,4215.0,3378.0,Medio,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,16:00,Media histórica,4304.0,4421.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,16:00,Último observado,4304.0,3542.0,Medio,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,16:30,Media histórica,4069.0,4366.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,16:30,Último observado,4069.0,3649.0,Medio,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,17:00,Media histórica,3578.0,4366.0,Bajo,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,17:00,Último observado,3578.0,3890.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,17:30,Media histórica,3200.0,4152.0,Bajo,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,17:30,Último observado,3200.0,4020.0,Bajo,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,18:00,Media histórica,3025.0,3846.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,18:00,Último observado,3025.0,4079.0,Bajo,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,18:30,Media histórica,2759.0,3686.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,18:30,Último observado,2759.0,4110.0,Bajo,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,19:00,Media histórica,2629.0,3461.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,19:00,Último observado,2629.0,3603.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,19:30,Media histórica,2506.0,3098.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,19:30,Último observado,2506.0,3240.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,20:00,Media histórica,2372.0,2785.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,20:00,Último observado,2372.0,2795.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,20:30,Media histórica,2183.0,2621.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,20:30,Último observado,2183.0,2519.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,21:00,Media histórica,1981.0,2195.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,21:00,Último observado,1981.0,2079.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,21:30,Media histórica,1351.0,1625.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,21:30,Último observado,1351.0,1449.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,22:00,Media histórica,963.0,1046.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,22:00,Último observado,963.0,956.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,22:30,Media histórica,579.0,649.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,22:30,Último observado,579.0,562.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,23:00,Media histórica,276.0,309.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,23:00,Último observado,276.0,295.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,23:30,Media histórica,93.0,96.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,DOMINGO,23:30,Último observado,93.0,75.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,00:00,Media histórica,29.2,9.6,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,00:00,Último observado,29.2,16.2,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,00:30,Media histórica,,7.3,Sin dato completo,Bajo,False,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,00:30,Último observado,,12.6,Sin dato completo,Bajo,False,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,01:00,Media histórica,6.6000000000000005,,Bajo,Sin historial,True,0,,392.4,962.36
+2025-11,Sur,LABORAL,01:00,Último observado,6.6000000000000005,,Bajo,Sin historial,True,0,,392.4,962.36
+2025-11,Sur,LABORAL,01:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,LABORAL,01:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,LABORAL,02:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,LABORAL,02:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,LABORAL,02:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,LABORAL,02:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,LABORAL,03:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,LABORAL,03:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,LABORAL,03:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,LABORAL,03:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,LABORAL,04:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,LABORAL,04:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,LABORAL,04:30,Media histórica,246.8,188.4,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,04:30,Último observado,246.8,227.8,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,05:00,Media histórica,1324.0,1158.9,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,05:00,Último observado,1324.0,1300.8000000000002,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,05:30,Media histórica,6237.8,5905.8,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,05:30,Último observado,6237.8,6340.6,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,06:00,Media histórica,11033.0,10641.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,06:00,Último observado,11033.0,11096.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,06:30,Media histórica,16095.8,15700.7,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,06:30,Último observado,16095.8,16236.4,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,07:00,Media histórica,19844.0,19747.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,07:00,Último observado,19844.0,20766.0,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,07:30,Media histórica,19435.8,19234.3,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,07:30,Último observado,19435.8,19859.6,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,08:00,Media histórica,16992.6,16965.3,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,08:00,Último observado,16992.6,17660.6,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,08:30,Media histórica,13615.4,13241.1,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,08:30,Último observado,13615.4,14006.2,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,09:00,Media histórica,11541.4,11046.9,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,09:00,Último observado,11541.4,11427.8,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,09:30,Media histórica,9575.6,9142.8,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,09:30,Último observado,9575.6,9623.6,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,10:00,Media histórica,8640.8,8121.4,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,10:00,Último observado,8640.8,8600.8,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,10:30,Media histórica,7982.4,7686.4,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,10:30,Último observado,7982.4,8179.8,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,11:00,Media histórica,7797.6,7363.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,11:00,Último observado,7797.6,7908.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,11:30,Media histórica,7670.0,7149.7,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,11:30,Último observado,7670.0,7598.4,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,12:00,Media histórica,7912.0,7313.6,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,12:00,Último observado,7912.0,7810.2,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,12:30,Media histórica,8208.2,7633.3,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,12:30,Último observado,8208.2,8155.6,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,13:00,Media histórica,8610.6,8255.3,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,13:00,Último observado,8610.6,8891.6,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,13:30,Media histórica,8202.0,7677.8,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,13:30,Último observado,8202.0,8237.6,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,14:00,Media histórica,7770.4,7254.4,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,14:00,Último observado,7770.4,7823.8,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,14:30,Media histórica,7283.400000000001,6886.1,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,14:30,Último observado,7283.400000000001,7470.2,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,15:00,Media histórica,7723.8,7104.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,15:00,Último observado,7723.8,7746.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,15:30,Media histórica,8014.6,7554.1,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,15:30,Último observado,8014.6,8370.2,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,16:00,Media histórica,8590.0,8042.1,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,16:00,Último observado,8590.0,8837.2,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,16:30,Media histórica,9485.6,8973.9,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,16:30,Último observado,9485.6,9916.8,Medio,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,17:00,Media histórica,11192.0,10781.9,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,17:00,Último observado,11192.0,11782.8,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,17:30,Media histórica,12607.6,12213.7,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,17:30,Último observado,12607.6,13075.4,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,18:00,Media histórica,13731.2,13389.8,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,18:00,Último observado,13731.2,13929.6,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,18:30,Media histórica,12760.2,12395.3,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,18:30,Último observado,12760.2,12846.6,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,19:00,Media histórica,11598.0,11020.3,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,19:00,Último observado,11598.0,11259.6,Alto,Alto,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,19:30,Media histórica,9416.8,8700.1,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,19:30,Último observado,9416.8,8789.2,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,20:00,Media histórica,7657.0,6542.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,20:00,Último observado,7657.0,6485.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,20:30,Media histórica,5757.799999999999,4911.1,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,20:30,Último observado,5757.799999999999,4736.2,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,21:00,Media histórica,4473.0,3727.4,Medio,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,21:00,Último observado,4473.0,3749.8,Medio,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,21:30,Media histórica,3248.0,2610.2,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,21:30,Último observado,3248.0,2634.4,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,22:00,Media histórica,2286.0,1936.7,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,22:00,Último observado,2286.0,2004.4,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,22:30,Media histórica,1594.6,1340.8,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,22:30,Último observado,1594.6,1486.6,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,23:00,Media histórica,814.6,669.8,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,23:00,Último observado,814.6,722.6,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,23:30,Media histórica,214.6,140.2,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,LABORAL,23:30,Último observado,214.6,168.4,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,00:00,Media histórica,100.0,97.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,00:00,Último observado,100.0,89.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,00:30,Media histórica,,47.0,Sin dato completo,Bajo,False,1,2025-04,392.4,962.36
+2025-11,Sur,SABADO,00:30,Último observado,,47.0,Sin dato completo,Bajo,False,1,2025-04,392.4,962.36
+2025-11,Sur,SABADO,01:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,SABADO,01:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,SABADO,01:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,SABADO,01:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,SABADO,02:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,SABADO,02:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,SABADO,02:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,SABADO,02:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,SABADO,03:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,SABADO,03:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,SABADO,03:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,SABADO,03:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,SABADO,04:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,SABADO,04:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.4,962.36
+2025-11,Sur,SABADO,04:30,Media histórica,83.0,80.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,04:30,Último observado,83.0,88.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,05:00,Media histórica,374.0,338.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,05:00,Último observado,374.0,334.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,05:30,Media histórica,1657.0,1666.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,05:30,Último observado,1657.0,1762.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,06:00,Media histórica,3425.0,3583.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,06:00,Último observado,3425.0,3591.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,06:30,Media histórica,5087.0,5169.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,06:30,Último observado,5087.0,5031.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,07:00,Media histórica,5877.0,6187.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,07:00,Último observado,5877.0,6197.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,07:30,Media histórica,5987.0,6274.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,07:30,Último observado,5987.0,6301.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,08:00,Media histórica,6234.0,6599.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,08:00,Último observado,6234.0,6542.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,08:30,Media histórica,6401.0,6668.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,08:30,Último observado,6401.0,6690.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,09:00,Media histórica,6919.0,6838.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,09:00,Último observado,6919.0,6573.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,09:30,Media histórica,6818.0,6609.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,09:30,Último observado,6818.0,6394.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,10:00,Media histórica,6421.0,6283.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,10:00,Último observado,6421.0,6190.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,10:30,Media histórica,6364.0,6358.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,10:30,Último observado,6364.0,6307.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,11:00,Media histórica,6472.0,6326.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,11:00,Último observado,6472.0,6288.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,11:30,Media histórica,6271.0,6178.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,11:30,Último observado,6271.0,6061.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,12:00,Media histórica,6427.0,6463.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,12:00,Último observado,6427.0,6482.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,12:30,Media histórica,6238.0,6481.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,12:30,Último observado,6238.0,6618.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,13:00,Media histórica,6514.0,6704.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,13:00,Último observado,6514.0,6756.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,13:30,Media histórica,6037.0,6237.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,13:30,Último observado,6037.0,6499.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,14:00,Media histórica,6051.0,6341.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,14:00,Último observado,6051.0,6499.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,14:30,Media histórica,5740.0,6084.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,14:30,Último observado,5740.0,6223.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,15:00,Media histórica,5569.0,5547.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,15:00,Último observado,5569.0,5857.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,15:30,Media histórica,5342.0,5303.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,15:30,Último observado,5342.0,5583.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,16:00,Media histórica,5161.0,5278.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,16:00,Último observado,5161.0,5601.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,16:30,Media histórica,4976.0,5017.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,16:30,Último observado,4976.0,5244.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,17:00,Media histórica,4973.0,5046.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,17:00,Último observado,4973.0,5190.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,17:30,Media histórica,4948.0,5057.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,17:30,Último observado,4948.0,5276.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,18:00,Media histórica,5262.0,5184.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,18:00,Último observado,5262.0,5315.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,18:30,Media histórica,5033.0,5070.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,18:30,Último observado,5033.0,5113.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,19:00,Media histórica,4857.0,4695.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,19:00,Último observado,4857.0,4681.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,19:30,Media histórica,4336.0,4117.5,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,19:30,Último observado,4336.0,3932.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,20:00,Media histórica,4142.0,4016.0,Medio,Medio,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,20:00,Último observado,4142.0,3680.0,Medio,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,20:30,Media histórica,3819.0,3661.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,20:30,Último observado,3819.0,3212.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,21:00,Media histórica,3374.0,3181.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,21:00,Último observado,3374.0,2714.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,21:30,Media histórica,2478.0,2424.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,21:30,Último observado,2478.0,2061.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,22:00,Media histórica,1624.0,1692.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,22:00,Último observado,1624.0,1560.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,22:30,Media histórica,1066.0,1125.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,22:30,Último observado,1066.0,987.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,23:00,Media histórica,696.0,689.5,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,23:00,Último observado,696.0,607.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,23:30,Media histórica,244.0,251.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2025-11,Sur,SABADO,23:30,Último observado,244.0,187.0,Bajo,Bajo,True,2,2025-04,392.4,962.36
+2026-04,Oriente,DOMINGO,00:00,Media histórica,851.0,966.6666666666666,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,00:00,Último observado,851.0,996.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,00:30,Media histórica,516.0,584.3333333333334,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,00:30,Último observado,516.0,606.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,01:00,Media histórica,339.0,384.3333333333333,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,01:00,Último observado,339.0,376.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,01:30,Media histórica,,208.5,Sin dato completo,Bajo,False,2,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,01:30,Último observado,,226.0,Sin dato completo,Bajo,False,2,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,02:00,Media histórica,,171.33333333333334,Sin dato completo,Bajo,False,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,02:00,Último observado,,142.0,Sin dato completo,Bajo,False,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,02:30,Media histórica,128.0,,Bajo,Sin historial,True,0,,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,02:30,Último observado,128.0,,Bajo,Sin historial,True,0,,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,03:00,Media histórica,115.0,106.5,Bajo,Bajo,True,2,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,03:00,Último observado,115.0,91.0,Bajo,Bajo,True,2,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,03:30,Media histórica,76.0,84.0,Bajo,Bajo,True,1,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,03:30,Último observado,76.0,84.0,Bajo,Bajo,True,1,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,04:00,Media histórica,,116.0,Sin dato completo,Bajo,False,1,2025-04,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,04:00,Último observado,,116.0,Sin dato completo,Bajo,False,1,2025-04,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,04:30,Media histórica,58.0,85.0,Bajo,Bajo,True,2,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,04:30,Último observado,58.0,86.0,Bajo,Bajo,True,2,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,05:00,Media histórica,119.0,101.5,Bajo,Bajo,True,2,2025-04,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,05:00,Último observado,119.0,106.0,Bajo,Bajo,True,2,2025-04,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,05:30,Media histórica,244.0,240.33333333333334,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,05:30,Último observado,244.0,242.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,06:00,Media histórica,722.0,618.6666666666666,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,06:00,Último observado,722.0,546.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,06:30,Media histórica,1394.0,1256.3333333333333,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,06:30,Último observado,1394.0,1166.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,07:00,Media histórica,2751.0,2126.0,Medio,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,07:00,Último observado,2751.0,1801.0,Medio,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,07:30,Media histórica,2951.0,2594.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,07:30,Último observado,2951.0,2350.0,Medio,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,08:00,Media histórica,4763.0,3574.6666666666665,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,08:00,Último observado,4763.0,3149.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,08:30,Media histórica,4852.0,4104.333333333333,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,08:30,Último observado,4852.0,3578.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,09:00,Media histórica,4807.0,4841.666666666667,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,09:00,Último observado,4807.0,4541.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,09:30,Media histórica,4942.0,5929.0,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,09:30,Último observado,4942.0,5957.0,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,10:00,Media histórica,4745.0,6513.333333333333,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,10:00,Último observado,4745.0,7133.0,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,10:30,Media histórica,4911.0,7113.333333333333,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,10:30,Último observado,4911.0,7990.0,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,11:00,Media histórica,4613.0,7350.333333333333,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,11:00,Último observado,4613.0,8579.0,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,11:30,Media histórica,4617.0,7215.0,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,11:30,Último observado,4617.0,8284.0,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,12:00,Media histórica,4966.0,7415.333333333333,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,12:00,Último observado,4966.0,8601.0,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,12:30,Media histórica,5104.0,7308.333333333333,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,12:30,Último observado,5104.0,8215.0,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,13:00,Media histórica,5327.0,7534.333333333333,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,13:00,Último observado,5327.0,8334.0,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,13:30,Media histórica,5308.0,7406.333333333333,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,13:30,Último observado,5308.0,8251.0,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,14:00,Media histórica,5465.0,7138.666666666667,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,14:00,Último observado,5465.0,7761.0,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,14:30,Media histórica,5082.0,6778.333333333333,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,14:30,Último observado,5082.0,7613.0,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,15:00,Media histórica,5198.0,6547.333333333333,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,15:00,Último observado,5198.0,6870.0,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,15:30,Media histórica,5186.0,6155.0,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,15:30,Último observado,5186.0,6435.0,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,16:00,Media histórica,5191.0,6211.0,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,16:00,Último observado,5191.0,6324.0,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,16:30,Media histórica,5407.0,5981.333333333333,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,16:30,Último observado,5407.0,5715.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,17:00,Media histórica,5650.0,5878.666666666667,Medio,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,17:00,Último observado,5650.0,5271.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,17:30,Media histórica,6089.0,5493.0,Alto,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,17:30,Último observado,6089.0,4661.0,Alto,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,18:00,Media histórica,6471.0,5280.0,Alto,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,18:00,Último observado,6471.0,4383.0,Alto,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,18:30,Media histórica,6438.0,5135.0,Alto,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,18:30,Último observado,6438.0,3829.0,Alto,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,19:00,Media histórica,6943.0,5338.666666666667,Alto,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,19:00,Último observado,6943.0,4194.0,Alto,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,19:30,Media histórica,6281.0,5310.0,Alto,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,19:30,Último observado,6281.0,4186.0,Alto,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,20:00,Media histórica,7207.0,6070.333333333333,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,20:00,Último observado,7207.0,5126.0,Alto,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,20:30,Media histórica,5623.0,4772.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,20:30,Último observado,5623.0,3895.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,21:00,Media histórica,4654.0,3630.3333333333335,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,21:00,Último observado,4654.0,3394.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,21:30,Media histórica,2979.0,2795.6666666666665,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,21:30,Último observado,2979.0,2542.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,22:00,Media histórica,2294.0,2188.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,22:00,Último observado,2294.0,2053.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,22:30,Media histórica,1178.0,1268.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,22:30,Último observado,1178.0,1233.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,23:00,Media histórica,701.0,802.6666666666666,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,23:00,Último observado,701.0,804.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,23:30,Media histórica,387.0,401.3333333333333,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,DOMINGO,23:30,Último observado,387.0,399.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,00:00,Media histórica,520.2,466.73333333333335,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,00:00,Último observado,520.2,655.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,00:30,Media histórica,273.0,317.4,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,00:30,Último observado,273.0,412.4,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,01:00,Media histórica,144.0,154.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,01:00,Último observado,144.0,161.2,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,01:30,Media histórica,84.8,81.33333333333333,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,01:30,Último observado,84.8,94.80000000000001,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,02:00,Media histórica,,48.7,Sin dato completo,Bajo,False,2,2025-04,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,02:00,Último observado,,61.4,Sin dato completo,Bajo,False,2,2025-04,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,02:30,Media histórica,37.0,29.666666666666668,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,02:30,Último observado,37.0,36.4,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,03:00,Media histórica,33.2,27.400000000000002,Bajo,Bajo,True,1,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,03:00,Último observado,33.2,27.400000000000002,Bajo,Bajo,True,1,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,03:30,Media histórica,,12.9,Sin dato completo,Bajo,False,2,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,03:30,Último observado,,19.8,Sin dato completo,Bajo,False,2,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,04:00,Media histórica,33.4,29.333333333333332,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,04:00,Último observado,33.4,34.6,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,04:30,Media histórica,59.6,45.73333333333333,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,04:30,Último observado,59.6,60.2,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,05:00,Media histórica,291.0,208.33333333333334,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,05:00,Último observado,291.0,263.6,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,05:30,Media histórica,1581.8,1404.6000000000001,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,05:30,Último observado,1581.8,1525.2,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,06:00,Media histórica,5599.200000000001,5018.599999999999,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,06:00,Último observado,5599.200000000001,5336.8,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,06:30,Media histórica,16492.4,14463.466666666667,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,06:30,Último observado,16492.4,14674.2,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,07:00,Media histórica,26605.6,24046.533333333336,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,07:00,Último observado,26605.6,24046.6,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,07:30,Media histórica,28615.600000000002,27201.533333333336,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,07:30,Último observado,28615.600000000002,27716.2,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,08:00,Media histórica,29211.6,29171.93333333333,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,08:00,Último observado,29211.6,29539.199999999997,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,08:30,Media histórica,26010.6,25894.733333333334,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,08:30,Último observado,26010.6,26411.8,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,09:00,Media histórica,21088.800000000003,21244.4,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,09:00,Último observado,21088.800000000003,21474.800000000003,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,09:30,Media histórica,18149.4,17701.399999999998,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,09:30,Último observado,18149.4,18178.6,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,10:00,Media histórica,15515.0,14965.4,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,10:00,Último observado,15515.0,15437.2,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,10:30,Media histórica,13752.4,13154.200000000003,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,10:30,Último observado,13752.4,13475.400000000001,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,11:00,Media histórica,13328.0,12880.666666666666,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,11:00,Último observado,13328.0,13122.2,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,11:30,Media histórica,13282.6,12883.933333333334,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,11:30,Último observado,13282.6,13217.599999999999,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,12:00,Media histórica,13739.0,13379.866666666667,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,12:00,Último observado,13739.0,13837.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,12:30,Media histórica,14797.6,14220.133333333331,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,12:30,Último observado,14797.6,14773.8,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,13:00,Media histórica,16238.400000000001,15884.933333333334,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,13:00,Último observado,16238.400000000001,16242.8,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,13:30,Media histórica,16499.2,15957.799999999997,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,13:30,Último observado,16499.2,16348.599999999999,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,14:00,Media histórica,17276.2,16555.466666666664,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,14:00,Último observado,17276.2,16719.8,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,14:30,Media histórica,16664.4,15883.066666666666,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,14:30,Último observado,16664.4,16001.8,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,15:00,Media histórica,17825.0,17218.666666666668,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,15:00,Último observado,17825.0,17682.8,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,15:30,Media histórica,18865.4,18017.266666666666,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,15:30,Último observado,18865.4,18344.6,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,16:00,Media histórica,22153.800000000003,20747.86666666667,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,16:00,Último observado,22153.800000000003,21280.2,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,16:30,Media histórica,23856.6,22222.8,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,16:30,Último observado,23856.6,22337.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,17:00,Media histórica,28051.4,26447.2,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,17:00,Último observado,28051.4,26483.4,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,17:30,Media histórica,29011.2,26786.266666666663,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,17:30,Último observado,29011.2,26812.6,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,18:00,Media histórica,30964.6,29225.13333333333,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,18:00,Último observado,30964.6,29367.6,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,18:30,Media histórica,25917.199999999997,24595.733333333334,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,18:30,Último observado,25917.199999999997,25096.2,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,19:00,Media histórica,21883.0,21306.133333333335,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,19:00,Último observado,21883.0,21904.4,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,19:30,Media histórica,15625.2,15678.933333333334,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,19:30,Último observado,15625.2,16670.2,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,20:00,Media histórica,14127.6,14572.066666666666,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,20:00,Último observado,14127.6,15607.599999999999,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,20:30,Media histórica,10077.8,10703.2,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,20:30,Último observado,10077.8,11426.2,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,21:00,Media histórica,8892.8,8831.533333333333,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,21:00,Último observado,8892.8,9833.8,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,21:30,Media histórica,6245.4,6363.733333333334,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,21:30,Último observado,6245.4,6845.6,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,22:00,Media histórica,5277.0,5215.533333333334,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,22:00,Último observado,5277.0,5614.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,22:30,Media histórica,2660.2,2753.4666666666667,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,22:30,Último observado,2660.2,3016.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,23:00,Media histórica,1737.2,1957.7333333333336,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,23:00,Último observado,1737.2,2177.8,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,23:30,Media histórica,1105.2,1491.6000000000001,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,LABORAL,23:30,Último observado,1105.2,2125.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,00:00,Media histórica,995.0,1121.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,00:00,Último observado,995.0,1076.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,00:30,Media histórica,504.0,714.3333333333334,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,00:30,Último observado,504.0,676.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,01:00,Media histórica,435.0,443.3333333333333,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,01:00,Último observado,435.0,435.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,01:30,Media histórica,,296.3333333333333,Sin dato completo,Bajo,False,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,01:30,Último observado,,290.0,Sin dato completo,Bajo,False,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,02:00,Media histórica,229.0,231.0,Bajo,Bajo,True,1,2024-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,02:00,Último observado,229.0,231.0,Bajo,Bajo,True,1,2024-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,02:30,Media histórica,141.0,201.5,Bajo,Bajo,True,2,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,02:30,Último observado,141.0,156.0,Bajo,Bajo,True,2,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,03:00,Media histórica,,178.0,Sin dato completo,Bajo,False,2,2025-04,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,03:00,Último observado,,163.0,Sin dato completo,Bajo,False,2,2025-04,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,03:30,Media histórica,109.0,131.0,Bajo,Bajo,True,1,2024-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,03:30,Último observado,109.0,131.0,Bajo,Bajo,True,1,2024-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,04:00,Media histórica,,94.0,Sin dato completo,Bajo,False,2,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,04:00,Último observado,,92.0,Sin dato completo,Bajo,False,2,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,04:30,Media histórica,93.0,98.0,Bajo,Bajo,True,1,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,04:30,Último observado,93.0,98.0,Bajo,Bajo,True,1,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,05:00,Media histórica,191.0,177.33333333333334,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,05:00,Último observado,191.0,174.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,05:30,Media histórica,607.0,625.3333333333334,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,05:30,Último observado,607.0,646.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,06:00,Media histórica,1828.0,1743.3333333333333,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,06:00,Último observado,1828.0,1768.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,06:30,Media histórica,3467.0,3304.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,06:30,Último observado,3467.0,3146.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,07:00,Media histórica,7368.0,7263.666666666667,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,07:00,Último observado,7368.0,7177.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,07:30,Media histórica,8054.0,7754.666666666667,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,07:30,Último observado,8054.0,7685.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,08:00,Media histórica,9014.0,8736.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,08:00,Último observado,9014.0,8707.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,08:30,Media histórica,9483.0,9261.666666666666,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,08:30,Último observado,9483.0,9278.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,09:00,Media histórica,9432.0,9487.666666666666,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,09:00,Último observado,9432.0,9452.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,09:30,Media histórica,9871.0,9844.666666666666,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,09:30,Último observado,9871.0,9924.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,10:00,Media histórica,8703.0,8543.666666666666,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,10:00,Último observado,8703.0,8711.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,10:30,Media histórica,8745.0,8500.666666666666,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,10:30,Último observado,8745.0,8462.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,11:00,Media histórica,8666.0,8192.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,11:00,Último observado,8666.0,8113.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,11:30,Media histórica,9056.0,8473.666666666666,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,11:30,Último observado,9056.0,8437.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,12:00,Media histórica,10023.0,9241.666666666666,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,12:00,Último observado,10023.0,9162.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,12:30,Media histórica,10125.0,9561.333333333334,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,12:30,Último observado,10125.0,9546.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,13:00,Media histórica,11689.0,11084.666666666666,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,13:00,Último observado,11689.0,10618.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,13:30,Media histórica,11787.0,10876.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,13:30,Último observado,11787.0,10860.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,14:00,Media histórica,12400.0,11490.333333333334,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,14:00,Último observado,12400.0,11198.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,14:30,Media histórica,11183.0,10359.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,14:30,Último observado,11183.0,10494.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,15:00,Media histórica,10503.0,10050.333333333334,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,15:00,Último observado,10503.0,9924.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,15:30,Media histórica,9523.0,9254.333333333334,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,15:30,Último observado,9523.0,9231.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,16:00,Media histórica,9823.0,9034.333333333334,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,16:00,Último observado,9823.0,8774.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,16:30,Media histórica,9599.0,8740.666666666666,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,16:30,Último observado,9599.0,8728.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,17:00,Media histórica,9948.0,9079.666666666666,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,17:00,Último observado,9948.0,9139.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,17:30,Media histórica,9864.0,8728.666666666666,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,17:30,Último observado,9864.0,8739.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,18:00,Media histórica,10048.0,9053.666666666666,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,18:00,Último observado,10048.0,8701.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,18:30,Media histórica,9008.0,8796.333333333334,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,18:30,Último observado,9008.0,8540.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,19:00,Media histórica,9889.0,9217.333333333334,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,19:00,Último observado,9889.0,9038.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,19:30,Media histórica,8026.0,8439.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,19:30,Último observado,8026.0,8680.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,20:00,Media histórica,9019.0,9564.333333333334,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,20:00,Último observado,9019.0,10262.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,20:30,Media histórica,7138.0,8332.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,20:30,Último observado,7138.0,8875.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,21:00,Media histórica,7170.0,6963.666666666667,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,21:00,Último observado,7170.0,6750.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,21:30,Media histórica,5106.0,4982.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,21:30,Último observado,5106.0,4979.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,22:00,Media histórica,4126.0,4102.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,22:00,Último observado,4126.0,3851.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,22:30,Media histórica,2420.0,2676.6666666666665,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,22:30,Último observado,2420.0,2498.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,23:00,Media histórica,1824.0,1994.6666666666667,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,23:00,Último observado,1824.0,1960.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,23:30,Media histórica,1410.0,1414.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Oriente,SABADO,23:30,Último observado,1410.0,1391.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,00:00,Media histórica,90.0,79.33333333333333,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,00:00,Último observado,90.0,73.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,00:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,00:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,01:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,01:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,01:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,01:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,02:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,02:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,02:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,02:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,03:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,03:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,03:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,03:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,04:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,04:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,04:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,04:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,05:00,Media histórica,,74.5,Sin dato completo,Bajo,False,2,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,05:00,Último observado,,67.0,Sin dato completo,Bajo,False,2,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,05:30,Media histórica,511.0,391.3333333333333,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,05:30,Último observado,511.0,314.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,06:00,Media histórica,1095.0,840.3333333333334,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,06:00,Último observado,1095.0,690.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,06:30,Media histórica,1730.0,1315.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,06:30,Último observado,1730.0,1040.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,07:00,Media histórica,2579.0,1867.3333333333333,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,07:00,Último observado,2579.0,1526.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,07:30,Media histórica,2943.0,2248.6666666666665,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,07:30,Último observado,2943.0,1794.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,08:00,Media histórica,3453.0,2818.6666666666665,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,08:00,Último observado,3453.0,2351.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,08:30,Media histórica,3510.0,3591.3333333333335,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,08:30,Último observado,3510.0,3277.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,09:00,Media histórica,3901.0,4317.666666666667,Bajo,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,09:00,Último observado,3901.0,4289.0,Bajo,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,09:30,Media histórica,4312.0,5004.666666666667,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,09:30,Último observado,4312.0,4849.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,10:00,Media histórica,4361.0,5428.333333333333,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,10:00,Último observado,4361.0,5394.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,10:30,Media histórica,4183.0,5638.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,10:30,Último observado,4183.0,5813.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,11:00,Media histórica,4049.0,5829.333333333333,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,11:00,Último observado,4049.0,5842.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,11:30,Media histórica,4091.0,5860.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,11:30,Último observado,4091.0,6030.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,12:00,Media histórica,4181.0,5600.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,12:00,Último observado,4181.0,5588.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,12:30,Media histórica,4216.0,5650.333333333333,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,12:30,Último observado,4216.0,5639.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,13:00,Media histórica,4258.0,5514.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,13:00,Último observado,4258.0,5436.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,13:30,Media histórica,4223.0,5219.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,13:30,Último observado,4223.0,5009.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,14:00,Media histórica,4094.0,5029.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,14:00,Último observado,4094.0,4983.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,14:30,Media histórica,3608.0,4503.666666666667,Bajo,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,14:30,Último observado,3608.0,4433.0,Bajo,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,15:00,Media histórica,3430.0,4406.666666666667,Bajo,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,15:00,Último observado,3430.0,4474.0,Bajo,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,15:30,Media histórica,3613.0,4356.666666666667,Bajo,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,15:30,Último observado,3613.0,4215.0,Bajo,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,16:00,Media histórica,3477.0,4382.0,Bajo,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,16:00,Último observado,3477.0,4304.0,Bajo,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,16:30,Media histórica,3624.0,4267.0,Bajo,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,16:30,Último observado,3624.0,4069.0,Bajo,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,17:00,Media histórica,3859.0,4103.333333333333,Bajo,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,17:00,Último observado,3859.0,3578.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,17:30,Media histórica,4069.0,3834.6666666666665,Medio,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,17:30,Último observado,4069.0,3200.0,Medio,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,18:00,Media histórica,4422.0,3572.6666666666665,Medio,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,18:00,Último observado,4422.0,3025.0,Medio,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,18:30,Media histórica,4235.0,3377.3333333333335,Medio,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,18:30,Último observado,4235.0,2759.0,Medio,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,19:00,Media histórica,3853.0,3184.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,19:00,Último observado,3853.0,2629.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,19:30,Media histórica,3134.0,2900.6666666666665,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,19:30,Último observado,3134.0,2506.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,20:00,Media histórica,3020.0,2647.3333333333335,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,20:00,Último observado,3020.0,2372.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,20:30,Media histórica,2496.0,2475.3333333333335,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,20:30,Último observado,2496.0,2183.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,21:00,Media histórica,2161.0,2123.6666666666665,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,21:00,Último observado,2161.0,1981.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,21:30,Media histórica,1464.0,1534.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,21:30,Último observado,1464.0,1351.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,22:00,Media histórica,953.0,1018.6666666666666,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,22:00,Último observado,953.0,963.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,22:30,Media histórica,564.0,626.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,22:30,Último observado,564.0,579.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,23:00,Media histórica,245.0,298.3333333333333,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,23:00,Último observado,245.0,276.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,23:30,Media histórica,90.0,95.33333333333333,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,DOMINGO,23:30,Último observado,90.0,93.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,00:00,Media histórica,40.8,16.133333333333333,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,00:00,Último observado,40.8,29.2,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,00:30,Media histórica,,7.3,Sin dato completo,Bajo,False,2,2025-04,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,00:30,Último observado,,12.6,Sin dato completo,Bajo,False,2,2025-04,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,01:00,Media histórica,,6.6000000000000005,Sin dato completo,Bajo,False,1,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,01:00,Último observado,,6.6000000000000005,Sin dato completo,Bajo,False,1,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,01:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,01:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,02:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,02:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,02:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,02:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,03:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,03:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,03:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,03:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,04:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,04:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,04:30,Media histórica,286.2,207.86666666666667,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,04:30,Último observado,286.2,246.8,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,05:00,Media histórica,1443.8,1213.9333333333334,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,05:00,Último observado,1443.8,1324.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,05:30,Media histórica,6742.0,6016.466666666667,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,05:30,Último observado,6742.0,6237.8,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,06:00,Media histórica,11587.6,10771.666666666666,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,06:00,Último observado,11587.6,11033.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,06:30,Media histórica,17158.2,15832.4,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,06:30,Último observado,17158.2,16095.8,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,07:00,Media histórica,21232.0,19779.333333333332,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,07:00,Último observado,21232.0,19844.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,07:30,Media histórica,20108.399999999998,19301.466666666664,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,07:30,Último observado,20108.399999999998,19435.8,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,08:00,Media histórica,17407.0,16974.399999999998,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,08:00,Último observado,17407.0,16992.6,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,08:30,Media histórica,13791.400000000001,13365.866666666667,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,08:30,Último observado,13791.400000000001,13615.4,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,09:00,Media histórica,11427.4,11211.733333333332,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,09:00,Último observado,11427.4,11541.4,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,09:30,Media histórica,9657.6,9287.066666666666,Alto,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,09:30,Último observado,9657.6,9575.6,Alto,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,10:00,Media histórica,8741.4,8294.533333333333,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,10:00,Último observado,8741.4,8640.8,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,10:30,Media histórica,8251.6,7785.066666666666,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,10:30,Último observado,8251.6,7982.4,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,11:00,Media histórica,7872.6,7508.2,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,11:00,Último observado,7872.6,7797.6,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,11:30,Media histórica,7628.8,7323.133333333334,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,11:30,Último observado,7628.8,7670.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,12:00,Media histórica,8140.0,7513.066666666667,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,12:00,Último observado,8140.0,7912.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,12:30,Media histórica,8370.0,7824.933333333334,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,12:30,Último observado,8370.0,8208.2,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,13:00,Media histórica,8878.0,8373.733333333332,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,13:00,Último observado,8878.0,8610.6,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,13:30,Media histórica,8305.2,7852.533333333333,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,13:30,Último observado,8305.2,8202.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,14:00,Media histórica,8029.0,7426.399999999999,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,14:00,Último observado,8029.0,7770.4,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,14:30,Media histórica,7724.8,7018.533333333334,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,14:30,Último observado,7724.8,7283.400000000001,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,15:00,Media histórica,8031.8,7310.599999999999,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,15:00,Último observado,8031.8,7723.8,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,15:30,Media histórica,8579.4,7707.600000000001,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,15:30,Último observado,8579.4,8014.6,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,16:00,Media histórica,9279.4,8224.733333333334,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,16:00,Último observado,9279.4,8590.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,16:30,Media histórica,10418.0,9144.466666666667,Alto,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,16:30,Último observado,10418.0,9485.6,Alto,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,17:00,Media histórica,12640.4,10918.6,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,17:00,Último observado,12640.4,11192.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,17:30,Media histórica,14104.4,12345.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,17:30,Último observado,14104.4,12607.6,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,18:00,Media histórica,15352.4,13503.6,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,18:00,Último observado,15352.4,13731.2,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,18:30,Media histórica,13838.0,12516.933333333334,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,18:30,Último observado,13838.0,12760.2,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,19:00,Media histórica,11782.6,11212.866666666667,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,19:00,Último observado,11782.6,11598.0,Alto,Alto,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,19:30,Media histórica,9333.2,8939.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,19:30,Último observado,9333.2,9416.8,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,20:00,Media histórica,7136.0,6913.666666666667,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,20:00,Último observado,7136.0,7657.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,20:30,Media histórica,5163.2,5193.333333333333,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,20:30,Último observado,5163.2,5757.799999999999,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,21:00,Media histórica,3859.8,3975.933333333333,Bajo,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,21:00,Último observado,3859.8,4473.0,Bajo,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,21:30,Media histórica,2888.6,2822.7999999999997,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,21:30,Último observado,2888.6,3248.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,22:00,Media histórica,2272.4,2053.133333333333,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,22:00,Último observado,2272.4,2286.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,22:30,Media histórica,1672.2,1425.3999999999999,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,22:30,Último observado,1672.2,1594.6,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,23:00,Media histórica,788.2,718.0666666666666,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,23:00,Último observado,788.2,814.6,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,23:30,Media histórica,194.0,165.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,LABORAL,23:30,Último observado,194.0,214.6,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,00:00,Media histórica,81.0,98.33333333333333,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,00:00,Último observado,81.0,100.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,00:30,Media histórica,,47.0,Sin dato completo,Bajo,False,1,2025-04,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,00:30,Último observado,,47.0,Sin dato completo,Bajo,False,1,2025-04,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,01:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,01:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,01:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,01:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,02:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,02:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,02:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,02:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,03:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,03:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,03:30,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,03:30,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,04:00,Media histórica,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,04:00,Último observado,,,Sin dato completo,Sin historial,False,0,,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,04:30,Media histórica,,81.33333333333333,Sin dato completo,Bajo,False,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,04:30,Último observado,,83.0,Sin dato completo,Bajo,False,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,05:00,Media histórica,385.0,350.3333333333333,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,05:00,Último observado,385.0,374.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,05:30,Media histórica,1731.0,1663.3333333333333,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,05:30,Último observado,1731.0,1657.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,06:00,Media histórica,3663.0,3530.3333333333335,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,06:00,Último observado,3663.0,3425.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,06:30,Media histórica,5192.0,5141.666666666667,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,06:30,Último observado,5192.0,5087.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,07:00,Media histórica,6265.0,6083.666666666667,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,07:00,Último observado,6265.0,5877.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,07:30,Media histórica,6402.0,6178.333333333333,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,07:30,Último observado,6402.0,5987.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,08:00,Media histórica,6997.0,6477.333333333333,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,08:00,Último observado,6997.0,6234.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,08:30,Media histórica,6762.0,6579.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,08:30,Último observado,6762.0,6401.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,09:00,Media histórica,6981.0,6865.333333333333,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,09:00,Último observado,6981.0,6919.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,09:30,Media histórica,6918.0,6678.666666666667,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,09:30,Último observado,6918.0,6818.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,10:00,Media histórica,6555.0,6329.333333333333,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,10:00,Último observado,6555.0,6421.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,10:30,Media histórica,6484.0,6360.333333333333,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,10:30,Último observado,6484.0,6364.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,11:00,Media histórica,6553.0,6374.666666666667,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,11:00,Último observado,6553.0,6472.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,11:30,Media histórica,6402.0,6209.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,11:30,Último observado,6402.0,6271.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,12:00,Media histórica,6800.0,6451.333333333333,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,12:00,Último observado,6800.0,6427.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,12:30,Media histórica,6769.0,6400.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,12:30,Último observado,6769.0,6238.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,13:00,Media histórica,7143.0,6640.666666666667,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,13:00,Último observado,7143.0,6514.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,13:30,Media histórica,6822.0,6170.666666666667,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,13:30,Último observado,6822.0,6037.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,14:00,Media histórica,6685.0,6244.666666666667,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,14:00,Último observado,6685.0,6051.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,14:30,Media histórica,6331.0,5969.666666666667,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,14:30,Último observado,6331.0,5740.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,15:00,Media histórica,5953.0,5554.666666666667,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,15:00,Último observado,5953.0,5569.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,15:30,Media histórica,5897.0,5316.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,15:30,Último observado,5897.0,5342.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,16:00,Media histórica,5791.0,5239.333333333333,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,16:00,Último observado,5791.0,5161.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,16:30,Media histórica,5630.0,5003.666666666667,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,16:30,Último observado,5630.0,4976.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,17:00,Media histórica,5593.0,5021.666666666667,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,17:00,Último observado,5593.0,4973.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,17:30,Media histórica,5583.0,5020.666666666667,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,17:30,Último observado,5583.0,4948.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,18:00,Media histórica,5961.0,5210.333333333333,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,18:00,Último observado,5961.0,5262.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,18:30,Media histórica,5579.0,5057.666666666667,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,18:30,Último observado,5579.0,5033.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,19:00,Media histórica,4798.0,4749.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,19:00,Último observado,4798.0,4857.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,19:30,Media histórica,4158.0,4190.333333333333,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,19:30,Último observado,4158.0,4336.0,Medio,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,20:00,Media histórica,3920.0,4058.0,Bajo,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,20:00,Último observado,3920.0,4142.0,Bajo,Medio,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,20:30,Media histórica,3438.0,3714.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,20:30,Último observado,3438.0,3819.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,21:00,Media histórica,2909.0,3245.6666666666665,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,21:00,Último observado,2909.0,3374.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,21:30,Media histórica,2196.0,2442.3333333333335,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,21:30,Último observado,2196.0,2478.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,22:00,Media histórica,1644.0,1669.6666666666667,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,22:00,Último observado,1644.0,1624.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,22:30,Media histórica,1071.0,1105.6666666666667,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,22:30,Último observado,1071.0,1066.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,23:00,Media histórica,515.0,691.6666666666666,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,23:00,Último observado,515.0,696.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,23:30,Media histórica,216.0,248.66666666666666,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778
+2026-04,Sur,SABADO,23:30,Último observado,216.0,244.0,Bajo,Bajo,True,3,2025-11,392.15555555555557,962.5177777777778

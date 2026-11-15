@@ -5,7 +5,7 @@ Esta es la ubicación canónica de los **datos de origen** utilizados en el proy
 ## Organización
 
 - `Subidas/`: libros de **Subidas por Paradero y Estación**. El panel de Etapa II usa noviembre de 2024, abril de 2025 v2, noviembre de 2025 y abril de 2026. También se conserva la variante de abril de 2025 sin `_v2` para documentar la selección de versión; no se usa en el pipeline actual.
-- `Etapas/`: paquetes ZIP por período: `2024-04/`, `2024-11/`, `2025-04/`, `2025-11/` y `2026-04/`. Para abril de 2026 se conservan también los archivos diarios extraídos que se usaron en la exploración inicial.
+- `Etapas/Utiles/`: nueve paquetes ZIP por corte, de agosto de 2022 a abril de 2026, y estructuras históricas. Se eliminaron las copias extraídas de abril de 2026 tras verificar sus hashes contra el ZIP conservado. Consulta el [inventario y las limitaciones de Etapas](Etapas/README.md).
 - `Viajes/`: paquetes ZIP por los mismos cinco períodos. Para abril de 2026 se conservan también los archivos diarios extraídos que se exploraron anteriormente.
 - `Referencias/`: diccionario oficial de campos, referencias geográficas y estructuras `.txt` separadas por año.
 
@@ -17,7 +17,7 @@ Esta es la ubicación canónica de los **datos de origen** utilizados en el proy
 | Noviembre de 2024 | Sí | ZIP disponible | ZIP disponible |
 | Abril de 2025 | Sí (se conserva la versión v2 usada y una variante sin v2) | ZIP disponible | ZIP disponible |
 | Noviembre de 2025 | Sí | ZIP disponible | ZIP disponible |
-| Abril de 2026 | Sí | ZIP y archivos diarios extraídos | ZIP y archivos diarios extraídos |
+| Abril de 2026 | Sí | ZIP disponible en `Etapas/Utiles/2026-04/` | ZIP y archivos diarios extraídos |
 
 Los paquetes de Etapas/Viajes son fuentes complementarias: una etapa es un tramo y un viaje puede contener varias etapas. No se combinan directamente con el target de Subidas. Los archivos de períodos distintos permiten plantear análisis complementarios, pero la comparabilidad de cobertura y factores debe validarse antes de interpretar diferencias.
 
@@ -25,6 +25,6 @@ Los paquetes de Etapas/Viajes son fuentes complementarias: una etapa es un tramo
 
 Los libros de Subidas descargados de nuevo y los ZIP de Etapas/Viajes de abril de 2026 se compararon con SHA-256. Eran copias binarias exactas de las fuentes que ya estaban aquí; esas copias redundantes se eliminaron después de la verificación. Los archivos originales canónicos permanecen intactos.
 
-No se incorporaron las descargas históricas anteriores a 2024 que aparecen en el portal DTPM ni los antiguos paquetes agregados de “Subidas y Bajadas”; no forman parte del alcance acordado actualmente.
+También se descargaron fuentes históricas de Subidas y Etapas, separadas de las entradas del modelo. En Etapas se conservaron agosto de 2022 y abril, agosto y noviembre de 2023 como candidatos pendientes de validar; los paquetes descargados de 2020–2021 se eliminaron por quedar fuera del alcance actual. Ninguna de estas fuentes históricas se incorporó automáticamente al panel.
 
 Para una explicación sencilla, consulta la [guía de origen de datos y CSV](../../Documentacion/guia_sencilla_origen_datos_y_csv.md) y el [informe de revisión/consolidación](../../Documentacion/revision_descargas_dtpm_hoy.md).

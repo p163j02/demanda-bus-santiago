@@ -1,0 +1,203 @@
+{
+  "estado": "completado",
+  "alcance": "Solo Datos/Fuentes/Etapas; selección de candidatos, no integración al panel.",
+  "conservados": [
+    {
+      "origen": "2024-04/etapas202404_transparencia_15al21.zip",
+      "destino": "Utiles/2024-04/etapas202404_transparencia_15al21.zip",
+      "bytes": 1916613083,
+      "sha256": "3f16e92cc838a383169534e5199b56aa8c769480caa263822be3ac53a17ae929",
+      "inode": 29363206
+    },
+    {
+      "origen": "2024-11/Tabla-de-Etapas- Nov24.zip",
+      "destino": "Utiles/2024-11/Tabla-de-Etapas- Nov24.zip",
+      "bytes": 1949885524,
+      "sha256": "57caddfa3f2915c3782f47e89fdd7a9ea224bcd68457471f4044112672e09a18",
+      "inode": 29491202
+    },
+    {
+      "origen": "2025-04/Tabla-de-etapas-011025.zip",
+      "destino": "Utiles/2025-04/Tabla-de-etapas-011025.zip",
+      "bytes": 1948993482,
+      "sha256": "2dc4cd3f46c839a3893b4d88daaaa0cd0f0f4686d6e0e598f208863feb7b6c78",
+      "inode": 29622274
+    },
+    {
+      "origen": "2025-11/Etapas_Nov_2025.zip",
+      "destino": "Utiles/2025-11/Etapas_Nov_2025.zip",
+      "bytes": 1981093724,
+      "sha256": "ab1674075bfb1d3cc5d4c295b473792311daf98da56c0d06b170bdbed44722ff",
+      "inode": 29753346
+    },
+    {
+      "origen": "2026-04/Etapas-2026-04.zip",
+      "destino": "Utiles/2026-04/Etapas-2026-04.zip",
+      "bytes": 2008292589,
+      "sha256": "0946b5fc94c2b5bde586835d05865f3a42578a62eeaa4ddbbe2156908ef06974",
+      "inode": 29919755
+    },
+    {
+      "origen": "etapas_082022_8al14_transparencia.zip",
+      "destino": "Utiles/2022-08/etapas_082022_8al14_transparencia.zip",
+      "bytes": 1284850374,
+      "sha256": "f8c88f4c2031186ea410d2a69b14b0a5fdce215a887032f8dde670e8312fcfd9",
+      "inode": 26514069
+    },
+    {
+      "origen": "etapas_042023_17al23_transparencia.zip",
+      "destino": "Utiles/2023-04/etapas_042023_17al23_transparencia.zip",
+      "bytes": 1752792885,
+      "sha256": "a95516f6b1b2691a48b1abbd16fbaf1b3342ad5c87bb33fc9ba295931ffc7f2b",
+      "inode": 26513684
+    },
+    {
+      "origen": "etapas_082023_7al13.zip",
+      "destino": "Utiles/2023-08/etapas_082023_7al13.zip",
+      "bytes": 337882777,
+      "sha256": "3126c20f761507d507adf31fd5563e0007109e254aae3d07044049aef4a86b88",
+      "inode": 26513194
+    },
+    {
+      "origen": "etapas_112023_6al12.zip",
+      "destino": "Utiles/2023-11/etapas_112023_6al12.zip",
+      "bytes": 1087174657,
+      "sha256": "777d814f726e7b23ddbb09cf2602071fb1eaeebb57a06387ffd80429514af8b9",
+      "inode": 26511391
+    },
+    {
+      "origen": "Estructura Tabla Etapas ABR22.txt",
+      "destino": "Utiles/2022-04/Estructura Tabla Etapas ABR22.txt",
+      "bytes": 1171,
+      "sha256": "35fe815e67a728bb46ecfd53bb41b0f526ff83a001b15de595f3c2a741c209e4",
+      "inode": 29360133
+    },
+    {
+      "origen": "Estructura Tabla Etapas_082022.txt",
+      "destino": "Utiles/2022-08/Estructura Tabla Etapas_082022.txt",
+      "bytes": 1171,
+      "sha256": "35fe815e67a728bb46ecfd53bb41b0f526ff83a001b15de595f3c2a741c209e4",
+      "inode": 29360134
+    },
+    {
+      "origen": "Estructura Tabla Etapas 0423.txt",
+      "destino": "Utiles/2023-04/Estructura Tabla Etapas 0423.txt",
+      "bytes": 1171,
+      "sha256": "35fe815e67a728bb46ecfd53bb41b0f526ff83a001b15de595f3c2a741c209e4",
+      "inode": 29360135
+    },
+    {
+      "origen": "Estructura Tabla Etapas 0823.txt",
+      "destino": "Utiles/2023-08/Estructura Tabla Etapas 0823.txt",
+      "bytes": 1171,
+      "sha256": "35fe815e67a728bb46ecfd53bb41b0f526ff83a001b15de595f3c2a741c209e4",
+      "inode": 29360136
+    },
+    {
+      "origen": "Estructura Tabla Etapas 112023.txt",
+      "destino": "Utiles/2023-11/Estructura Tabla Etapas 112023.txt",
+      "bytes": 1171,
+      "sha256": "35fe815e67a728bb46ecfd53bb41b0f526ff83a001b15de595f3c2a741c209e4",
+      "inode": 29360137
+    }
+  ],
+  "eliminados": [
+    {
+      "origen": "etapas202003_laboral_transparencia.zip",
+      "bytes": 1176149502,
+      "motivo": "Fuera del alcance actual 2022–2026; no se afirma que estos datos sean inválidos."
+    },
+    {
+      "origen": "etapas202003_sab_dom_transparencia.zip",
+      "bytes": 201546694,
+      "motivo": "Fuera del alcance actual 2022–2026; no se afirma que estos datos sean inválidos."
+    },
+    {
+      "origen": "etapas202011_transparencia_9al15.zip",
+      "bytes": 775717695,
+      "motivo": "Fuera del alcance actual 2022–2026; no se afirma que estos datos sean inválidos."
+    },
+    {
+      "origen": "etapas202104_transparencia.zip",
+      "bytes": 522204496,
+      "motivo": "Fuera del alcance actual 2022–2026; no se afirma que estos datos sean inválidos."
+    },
+    {
+      "origen": "mar20-Estructura-Tabla-Etapas.txt",
+      "bytes": 1065,
+      "motivo": "Fuera del alcance actual 2022–2026; no se afirma que estos datos sean inválidos."
+    },
+    {
+      "origen": "nov21-Estructura Tabla Etapas.txt",
+      "bytes": 1065,
+      "motivo": "Fuera del alcance actual 2022–2026; no se afirma que estos datos sean inválidos."
+    },
+    {
+      "origen": "Estructura-Tabla-Etapas-NOV21.txt",
+      "bytes": 1171,
+      "motivo": "Fuera del alcance actual 2022–2026; no se afirma que estos datos sean inválidos."
+    },
+    {
+      "origen": "Estructura-Tabla-Etapas-abr21.txt",
+      "bytes": 1194,
+      "motivo": "Fuera del alcance actual 2022–2026; no se afirma que estos datos sean inválidos."
+    },
+    {
+      "origen": "Etapas-2026-04/Tabla de Etapas/2026-04-11.etapas.csv.gz",
+      "bytes": 180783345,
+      "motivo": "Duplicado binario del miembro del ZIP conservado; SHA-256 iguales.",
+      "sha256": "fff703eedac1f72dcda1d3de1b44b077102186859b8ec6f1efb71fd59733e324",
+      "copia_conservada": "Utiles/2026-04/Etapas-2026-04.zip::Tabla de Etapas/2026-04-11.etapas.csv.gz"
+    },
+    {
+      "origen": "Etapas-2026-04/Tabla de Etapas/2026-04-12.etapas.csv.gz",
+      "bytes": 102084116,
+      "motivo": "Duplicado binario del miembro del ZIP conservado; SHA-256 iguales.",
+      "sha256": "bd031e86aca84d4163a7f0c930a3503b657dbe8b87a6f807d41cd5440f4d63e6",
+      "copia_conservada": "Utiles/2026-04/Etapas-2026-04.zip::Tabla de Etapas/2026-04-12.etapas.csv.gz"
+    },
+    {
+      "origen": "Etapas-2026-04/Tabla de Etapas/2026-04-13.etapas.csv.gz",
+      "bytes": 342998620,
+      "motivo": "Duplicado binario del miembro del ZIP conservado; SHA-256 iguales.",
+      "sha256": "cbaf0df83452c833b4be20ced5d23dc2adb0606ce86511be3273270a86d84b83",
+      "copia_conservada": "Utiles/2026-04/Etapas-2026-04.zip::Tabla de Etapas/2026-04-13.etapas.csv.gz"
+    },
+    {
+      "origen": "Etapas-2026-04/Tabla de Etapas/2026-04-14.etapas.csv.gz",
+      "bytes": 345657215,
+      "motivo": "Duplicado binario del miembro del ZIP conservado; SHA-256 iguales.",
+      "sha256": "b346ea18027a802e0c5c4410637776cc990bd0b2ea578d2122c76d79ca0c763f",
+      "copia_conservada": "Utiles/2026-04/Etapas-2026-04.zip::Tabla de Etapas/2026-04-14.etapas.csv.gz"
+    },
+    {
+      "origen": "Etapas-2026-04/Tabla de Etapas/2026-04-15.etapas.csv.gz",
+      "bytes": 348571895,
+      "motivo": "Duplicado binario del miembro del ZIP conservado; SHA-256 iguales.",
+      "sha256": "cf22dd7c09e814e072f1641867149f784595fa159381dbf40f4f20142695a90f",
+      "copia_conservada": "Utiles/2026-04/Etapas-2026-04.zip::Tabla de Etapas/2026-04-15.etapas.csv.gz"
+    },
+    {
+      "origen": "Etapas-2026-04/Tabla de Etapas/2026-04-16.etapas.csv.gz",
+      "bytes": 347459895,
+      "motivo": "Duplicado binario del miembro del ZIP conservado; SHA-256 iguales.",
+      "sha256": "43da2fea5596e211ec01954c9dcfbd6e6ba13d3e0555075e4ddad0c84a0fc9e1",
+      "copia_conservada": "Utiles/2026-04/Etapas-2026-04.zip::Tabla de Etapas/2026-04-16.etapas.csv.gz"
+    },
+    {
+      "origen": "Etapas-2026-04/Tabla de Etapas/2026-04-17.etapas.csv.gz",
+      "bytes": 340736277,
+      "motivo": "Duplicado binario del miembro del ZIP conservado; SHA-256 iguales.",
+      "sha256": "54e4a13064dd8f645b785095dc26faba949f29ee1adfe61335c887466fc65788",
+      "copia_conservada": "Utiles/2026-04/Etapas-2026-04.zip::Tabla de Etapas/2026-04-17.etapas.csv.gz"
+    },
+    {
+      "origen": "Etapas-2026-04/Tabla de Etapas/2026-04-11.etapas.csv",
+      "bytes": 780439776,
+      "motivo": "CSV idéntico al contenido descomprimido del GZIP verificado dentro del ZIP conservado.",
+      "sha256": "8a554e437fd134df2a634a1b5ed4c9400143dcc850975370c512be32f6aa5dd5",
+      "copia_conservada": "Utiles/2026-04/Etapas-2026-04.zip::Tabla de Etapas/2026-04-11.etapas.csv.gz"
+    }
+  ],
+  "bytes_eliminados": 5464354021
+}

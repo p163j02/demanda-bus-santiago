@@ -10,7 +10,7 @@ Proyecto de Ciencia de Datos para explorar y pronosticar las subidas registradas
 demanda-bus-santiago/
 ├── Etapa_01/       Propuesta e informe de la primera entrega
 ├── Etapa_02/       Código, notebook, resultados y guion del avance
-├── Etapa_03/       Espacio de referencia para la presentación técnica final
+├── Etapa_03/       Base reproducible y plan de evaluación final
 ├── Etapa_04/       Espacio de referencia para la feria de proyectos
 ├── Datos/
 │   └── Fuentes/    Ubicación local de los datos fuente DTPM
@@ -44,6 +44,9 @@ Los archivos fuente originales (libros Excel, paquetes ZIP y datos CSV de gran t
 ## Guías y resultados
 
 - [Informe de la propuesta — Etapa I](Etapa_01/entrega/Informe_Etapa_I.pdf)
+- [Etapa III — Base reproducible del Hito 1 e instrucciones](Etapa_03/README.md)
+- [Plan de trabajo y casillas de avance — Etapa III](Etapa_03/plan_de_trabajo.md)
+- [Paquete de datos para el equipo — contenido y extracción](Etapa_03/compartir_datos.md)
 - [Notebook principal — Etapa II sectorial](Etapa_02/notebooks/etapa_ii_sectorial_simple.ipynb)
 - [Notebook del avance comunal anterior](Etapa_02/notebooks/etapa_ii_avance.ipynb)
 - [Pronóstico sectorial sencillo y etiquetas horarias](Etapa_02/resultados/sectorial_simple/README.md)

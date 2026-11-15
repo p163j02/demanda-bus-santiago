@@ -1,5 +1,7 @@
 # Revisión de las descargas recientes del DTPM
 
+> Actualización de organización: los ZIP de Etapas se trasladaron posteriormente a `Datos/Fuentes/Etapas/Utiles/`; las rutas de la tabla se actualizaron. Se agregaron candidatos de 2022–2023 y se limpiaron archivos de 2020–2021 y copias extraídas de 2026. El [inventario actual](../Datos/Fuentes/Etapas/README.md) documenta esos cambios; el resto de este informe describe el cotejo inicial.
+
 ## Resumen ejecutivo
 
 La descarga temporal contenía **27 archivos, aproximadamente 19,43 GB**. Se consolidó en la carpeta canónica `Datos/Fuentes/`: se reubicaron 20 archivos únicos (ZIP complementarios, estructuras y referencias) sin cambiar sus bytes; se eliminaron siete copias duplicadas después de comparar sus hashes. La carpeta temporal `Datos_descargados_hoy/` ya no existe.
@@ -26,11 +28,11 @@ Al revisar los nombres dentro de los ZIP, cada paquete de período contiene siet
 
 | Período dentro de los ZIP | Ruta canónica de Etapas | Ruta canónica de Viajes |
 |---|---|---|
-| Abril de 2024 (días 15–21) | `Datos/Fuentes/Etapas/2024-04/etapas202404_transparencia_15al21.zip` | `Datos/Fuentes/Viajes/2024-04/viajes202404_transparencia_15al21.zip` |
-| Noviembre de 2024 (días 18–24) | `Datos/Fuentes/Etapas/2024-11/Tabla-de-Etapas- Nov24.zip` | `Datos/Fuentes/Viajes/2024-11/Tabla-de-Viajes-Nov-24.zip` |
-| Abril de 2025 (días 21–27) | `Datos/Fuentes/Etapas/2025-04/Tabla-de-etapas-011025.zip` | `Datos/Fuentes/Viajes/2025-04/Tabla-de-viajes-011025.zip` |
-| Noviembre de 2025 (días 8–14) | `Datos/Fuentes/Etapas/2025-11/Etapas_Nov_2025.zip` | `Datos/Fuentes/Viajes/2025-11/Tablas_viajes_NOV_2025.zip` |
-| Abril de 2026 (días 11–17) | `Datos/Fuentes/Etapas/2026-04/Etapas-2026-04.zip` | `Datos/Fuentes/Viajes/2026-04/Viajes_2026-04.zip` |
+| Abril de 2024 (días 15–21) | `Datos/Fuentes/Etapas/Utiles/2024-04/etapas202404_transparencia_15al21.zip` | `Datos/Fuentes/Viajes/2024-04/viajes202404_transparencia_15al21.zip` |
+| Noviembre de 2024 (días 18–24) | `Datos/Fuentes/Etapas/Utiles/2024-11/Tabla-de-Etapas- Nov24.zip` | `Datos/Fuentes/Viajes/2024-11/Tabla-de-Viajes-Nov-24.zip` |
+| Abril de 2025 (días 21–27) | `Datos/Fuentes/Etapas/Utiles/2025-04/Tabla-de-etapas-011025.zip` | `Datos/Fuentes/Viajes/2025-04/Tabla-de-viajes-011025.zip` |
+| Noviembre de 2025 (días 8–14) | `Datos/Fuentes/Etapas/Utiles/2025-11/Etapas_Nov_2025.zip` | `Datos/Fuentes/Viajes/2025-11/Tablas_viajes_NOV_2025.zip` |
+| Abril de 2026 (días 11–17) | `Datos/Fuentes/Etapas/Utiles/2026-04/Etapas-2026-04.zip` | `Datos/Fuentes/Viajes/2026-04/Viajes_2026-04.zip` |
 
 Los ZIP de abril de 2026 ya estaban guardados antes y tienen SHA-256 idéntico al de la descarga; se conservó una sola copia canónica. Los ZIP de los otros cuatro cortes son los archivos nuevos reubicados. Los nombres internos del ZIP de abril de 2025 confirman fechas `2025-04-21` a `2025-04-27`.
 
