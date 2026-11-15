@@ -1,0 +1,63 @@
+op integer,
+  
+tipo_dia character varying(10),
+  
+tipo_transporte character varying(20),
+  
+f_exp_servicioperiodots double precision,
+  
+tiene_bajada bit(1),
+  
+tiempo2 timestamp without time zone,
+  
+tiempo_subida timestamp without time zone,
+  
+tiempo_bajada timestamp without time zone,
+  
+tiempo_etapa double precision,
+  
+mh_subida time without time zone,
+  
+mh_bajada time without time zone,
+  
+x_subida double precision,
+  
+y_subida double precision,
+  
+x_bajada double precision,
+  
+y_bajada double precision,
+  
+dist_ruta_paraderos integer,
+  
+dist_eucl_paraderos integer,
+  
+servicio_subida character varying(20),
+  
+servicio_bajada character varying(20),
+  
+par_subida character varying(30),
+  
+par_bajada character varying(30),
+  
+comuna_subida character varying(20),
+  
+comuna_bajada character varying(20),
+  
+zona_subida character varying(10),
+  
+zona_bajada character varying(10),
+  
+sitio_subida character varying(50),
+  
+fexpansionzonaperiodots double precision,
+  
+tesperamediaintervalo double precision,
+
+periodosubida character varying(50),
+
+periodobajada character varying(50),
+
+tiempoiniexpedicion character varying(50)
+
+)

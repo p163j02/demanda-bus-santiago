@@ -27,3 +27,4 @@ __pycache__/
 *.synctex.gz
 Etapa_01/fuente_latex/main.pdf
 Datos.zip
+Datos/*.zip

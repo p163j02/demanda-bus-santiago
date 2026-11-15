@@ -1,0 +1,49 @@
+{
+  "n_celdas_panel": 20736,
+  "n_celdas_comunales_sectores": 9216,
+  "n_celdas_sectoriales": 1152,
+  "ceros_anadidos_panel": 1087,
+  "ceros_anadidos_sectores": 427,
+  "ceros_observados_comunales_sectores": 83,
+  "nulos_sectoriales_confirmados": 0,
+  "sectores": {
+    "Oriente": [
+      "LAS CONDES",
+      "VITACURA",
+      "LO BARNECHEA",
+      "PROVIDENCIA",
+      "LA REINA",
+      "ÑUÑOA"
+    ],
+    "Sur": [
+      "LA CISTERNA",
+      "EL BOSQUE",
+      "SAN BERNARDO",
+      "LA PINTANA",
+      "SAN RAMÓN",
+      "SAN MIGUEL",
+      "LA GRANJA",
+      "SAN JOAQUÍN",
+      "PEDRO AGUIRRE CERDA",
+      "LO ESPEJO"
+    ]
+  },
+  "periodos": [
+    "2024-11",
+    "2025-04",
+    "2025-11",
+    "2026-04"
+  ],
+  "entradas_sha256": {
+    "Etapa_02/resultados/panel_demanda_bus_modelo.csv": "9885744697fecf1d5be90ab2909e00bbfffd95aaa1758372d5813a1120e3b33f",
+    "Etapa_02/resultados/panel_demanda_bus.csv": "b5c9909712bb417cf06b42a229110ad1f1ae8eb162d14cd9293fca254b878a2c",
+    "Etapa_02/resultados/panel_quality_report.json": "7208c3b46c9d70faf2c7252d812a2245fbcb63c71283c9f8b9737f91211e34c9"
+  },
+  "entorno": {
+    "python": "3.14.9",
+    "pandas": "3.0.5",
+    "numpy": "2.5.3"
+  },
+  "reproduccion": "Predicciones, métricas y matriz de etapa 2 coinciden (rtol=1e-9, atol=1e-8).",
+  "alcance_auditoria": "Paneles incluidos contrastados entre sí; libros originales no releídos."
+}

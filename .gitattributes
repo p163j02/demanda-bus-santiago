@@ -1,0 +1,2 @@
+# Conservar los bytes y el formato de las estructuras originales del DTPM.
+Datos/Fuentes/Etapas/Utiles/**/*.txt -text whitespace=-blank-at-eol,cr-at-eol
