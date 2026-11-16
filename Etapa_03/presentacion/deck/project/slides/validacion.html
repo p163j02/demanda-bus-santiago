@@ -1,0 +1,11 @@
+<section id="validacion" class="alt">
+<p class="eyebrow">VALIDACIÓN</p>
+<h2>Validación de origen móvil: nunca usamos el futuro para predecir el pasado</h2>
+<div class="cards">
+<div class="card" style="--i:0"><h3>Prueba 1 · nov-2025</h3><p class="lbl">Entrena con los objetivos de abr-2025 (su historial: nov-2024)</p><p class="big">1 corte</p></div>
+<div class="card" style="--i:1"><h3>Prueba 2 · abr-2026</h3><p class="lbl">Entrena con los objetivos de abr-2025 y nov-2025</p><p class="big">2 cortes</p></div>
+<div class="card warm" style="--i:2"><h3>Criterio de selección</h3><p class="lbl">Menor WAPE conjunto de las dos pruebas, sobre las mismas 505 franjas para los 4 métodos</p><p class="big">WAPE</p></div>
+</div>
+<p class="small">No usamos K-fold aleatorio porque mezclaría cortes futuros con pasados. WAPE = error absoluto total / subidas totales: se lee en %, y pesa más donde viaja más gente. Un control automático verifica que alterar datos futuros no cambia ningún pronóstico.</p>
+<aside>Esta es la cross-validation adecuada para series de tiempo. Si preguntan por qué solo dos pruebas: con cuatro cortes, es lo máximo que permite exigir al menos un corte de historial para entrenar.</aside>
+</section>

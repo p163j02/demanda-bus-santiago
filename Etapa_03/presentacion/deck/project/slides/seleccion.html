@@ -1,0 +1,13 @@
+<section id="seleccion" class="alt">
+<p class="eyebrow">SELECCIÓN DEL MODELO FINAL</p>
+<h2>Elegimos la media histórica: más precisa en conjunto y más estable</h2>
+<table>
+<tr><th style="width:30%">Método</th><th style="width:16%">WAPE conjunto</th><th style="width:14%">Sesgo</th><th style="width:18%">Acierto etiqueta</th><th style="width:22%">Altos detectados</th></tr>
+<tr style="background:#D6E6EC"><td>Media histórica (elegido)</td><td>6,95 %</td><td>−1,8 %</td><td>90,7 %</td><td>159 de 166</td></tr>
+<tr><td>Ridge (log)</td><td>7,05 %</td><td>−3,2 %</td><td>92,9 %</td><td>151 de 166</td></tr>
+<tr><td>Gradient Boosting</td><td>7,83 %</td><td>−0,7 %</td><td>87,5 %</td><td>151 de 166</td></tr>
+<tr><td>Último observado</td><td>9,18 %</td><td>−1,5 %</td><td>84,9 %</td><td>144 de 166</td></tr>
+</table>
+<p class="small">Ridge empata estadísticamente y acierta más etiquetas, pero se pierde más franjas Alto, que son las que importan para planificar flota. Ante un empate, elegimos el modelo más simple y explicable. Gradient Boosting es significativamente peor en el conjunto.</p>
+<aside>Justificación en tres puntos: menor error conjunto, mejor detección de franjas Alto y la explicación más simple. La complejidad adicional no se justifica con cuatro cortes.</aside>
+</section>

@@ -1,0 +1,12 @@
+<section id="enfoque">
+<p class="eyebrow">MODELOS</p>
+<h2>Cuatro métodos, de lo más simple a lo más flexible</h2>
+<div class="cards">
+<div class="card" style="--i:0"><h3>Media histórica</h3><p class="lbl">Promedio de los cortes completos anteriores, para la misma franja</p></div>
+<div class="card" style="--i:1"><h3>Último observado</h3><p class="lbl">El valor del corte completo más reciente</p></div>
+<div class="card warm" style="--i:2"><h3>Ridge (log)</h3><p class="lbl">Regresión regularizada que corrige la media histórica</p></div>
+<div class="card warm" style="--i:3"><h3>Gradient Boosting</h3><p class="lbl">Árboles con boosting sobre las mismas variables</p></div>
+</div>
+<p><b>Variables de los modelos de ML:</b> log de la media histórica, log del último observado, hora (seno y coseno), tipo de día, sector y temporada (abril o noviembre). Ambos modelan el <b>residuo</b> sobre la media histórica.</p>
+<aside>Los modelos de ML no parten de cero: aprenden cuánto corregir la media histórica según la hora, el día y la temporada.</aside>
+</section>
