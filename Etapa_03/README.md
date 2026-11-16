@@ -112,11 +112,10 @@ python -m venv .venv
 | `codigo/comparacion_modelos.py` | `resultados/hito_2/` | 4 métodos (media histórica, último observado, Ridge y Gradient Boosting) con validación de origen móvil (pruebas en 2025-11 y 2026-04) |
 | `codigo/validacion_robustez.py` | `resultados/hito_2b/` | Bootstrap IC 95 %, RMSE, ajuste de hiperparámetros sin fuga, importancia por permutación, residuos y sensibilidad de umbrales |
 | `codigo/ampliacion_2023.py` | `resultados/hito_2c/` | Historial ampliado con las Subidas laborales de 2023 (abr, ago, nov). Compara historial original y ampliado sobre las mismas franjas laborales, con bootstrap |
+| `codigo/modelo_unico.py` | `resultados/hito_2d/` | Un solo modelo para los tres tipos de día con todo el historial; bootstrap total y laboral |
 | `codigo/figuras_hito_3.py` | `resultados/figuras/` | Figuras de la presentación |
 
-**Modelo seleccionado, por segmento:**
-- **Laboral:** Gradient Boosting con historial 2023–2026. WAPE 3,2 %, significativamente mejor que la media histórica (−1,6 pp, IC 95 % [−2,1; −1,2]).
-- **Sábado y domingo:** media histórica, porque no hay datos de 2023 para esos días. En la evaluación de 2024–2026 empata estadísticamente con Ridge (WAPE conjunto 6,95 %) y es la más simple.
+**Modelo final:** un solo Gradient Boosting entrenado con todo el historial (2023–2026 en laboral, 2024–2026 en fin de semana). Su WAPE total es 6,66 %, contra 6,95 % de la media histórica. En días laborales llega a 3,35 % y es significativamente mejor (−1,4 pp, IC 95 % [−1,8; −1,1]). Ver `codigo/modelo_unico.py` y `resultados/hito_2d/`.
 
 `ampliacion_2023.py` lee los ZIP de `Datos/Fuentes/Subidas/` (ignorados por git; ver `compartir_datos.md`) y requiere `pyxlsb`.
 

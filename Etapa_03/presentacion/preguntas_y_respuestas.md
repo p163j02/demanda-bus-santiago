@@ -22,7 +22,10 @@ Con una grilla entrenada en abr-2025 y validada en nov-2025. La mejor configurac
 ## Modelos
 
 **¿Al final cuál es el modelo elegido?**
-Depende del segmento. En días laborales, Gradient Boosting entrenado con el historial 2023–2026 (WAPE 3,2 %). En sábado y domingo, la media histórica, porque no hay datos de 2023 para esos días.
+Un solo Gradient Boosting, entrenado con todo el historial (2023–2026 en laboral, 2024–2026 en fin de semana). Tiene un WAPE total de 6,66 %, el menor de todos, y en días laborales llega a 3,35 %.
+
+**¿Es significativamente mejor que la media histórica?**
+En días laborales sí: −1,4 pp, IC 95 % [−1,8; −1,1]. En el total no (−0,30 pp, IC [−0,91; +0,29]), porque en fin de semana la media es algo mejor. Lo elegimos igual porque tiene el menor error total, gana donde está la mayor parte de la demanda y mejora con más datos.
 
 **¿No es contradictorio que con 4 cortes gane la media y con 7 gane Gradient Boosting?**
 No. Con 4 cortes, el ML entrena con 173 filas y la media histórica aún no arrastra años antiguos. Con 7 cortes laborales, el ML entrena con 429 filas, y la media histórica empeora porque promedia 2023, cuando la demanda era 24 a 27 % menor. El ML usa el último observado para corregir esa tendencia.

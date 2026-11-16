@@ -1,11 +1,16 @@
 <section id="seleccion" class="alt">
 <p class="eyebrow">SELECCIÓN DEL MODELO FINAL</p>
-<h2>El modelo final depende de cuánta historia hay</h2>
+<h2>Modelo final: Gradient Boosting con todo el historial</h2>
 <table style="font-size:28px;">
-<tr><th style="width:22%">Tipo de día</th><th style="width:30%">Modelo elegido</th><th style="width:20%">WAPE prueba</th><th style="width:28%">Por qué</th></tr>
-<tr style="background:#D6E6EC"><td>Laboral</td><td>Gradient Boosting con historial 2023–2026</td><td>3,2 %</td><td>Significativamente mejor que la media (−1,6 pp)</td></tr>
-<tr><td>Sábado y domingo</td><td>Media histórica</td><td>6,95 % (todos los días)</td><td>Sin historial 2023; empata con Ridge y es la más simple</td></tr>
+<tr><th style="width:34%">Un solo modelo, 3 tipos de día</th><th style="width:16%">Total</th><th style="width:16%">Laboral</th><th style="width:16%">Sábado</th><th style="width:18%">Domingo</th></tr>
+<tr style="background:#D6E6EC"><td>Gradient Boosting, 2023–2026 (elegido)</td><td>6,66 %</td><td>3,35 %</td><td>5,36 %</td><td>19,8 %</td></tr>
+<tr><td>Media histórica</td><td>6,95 %</td><td>4,79 %</td><td>4,33 %</td><td>18,5 %</td></tr>
+<tr><td>Ridge, 2024–2026</td><td>7,29 %</td><td>4,31 %</td><td>7,24 %</td><td>17,2 %</td></tr>
 </table>
-<p class="small">Con 4 cortes, la media histórica empata con Ridge (+0,09 pp, IC [−0,56; +0,73]) y supera a Gradient Boosting. Al triplicar los datos de entrenamiento en días laborales, el orden se invierte. Ambas conclusiones salen del mismo protocolo de origen móvil.</p>
-<aside>Es una selección por segmento, no una contradicción: el modelo complejo gana donde tiene datos suficientes. Para sábado y domingo no hay libros 2023, así que seguimos con el modelo simple.</aside>
+<div class="cards">
+<div class="card" style="--i:0"><h3>Menor error total</h3><p class="lbl">El más bajo de todos los modelos, en las mismas 505 franjas de prueba</p></div>
+<div class="card" style="--i:1"><h3>Gana donde está la demanda</h3><p class="lbl">Laboral: −1,4 pp frente a la media, IC 95 % [−1,8; −1,1]</p></div>
+<div class="card warm" style="--i:2"><h3>Su punto débil</h3><p class="lbl">Fines de semana, que tienen menos historia. La ventaja total (−0,3 pp) no es significativa</p></div>
+</div>
+<aside>El criterio es el menor error total, y lo complementamos con dónde importa el error: el día laboral concentra la mayor parte de los viajes y de la planificación. A diferencia de la media histórica, este modelo mejora con más datos. Si preguntan por la significancia: la diferencia total es de −0,30 pp con IC [−0,91; +0,29]; en día laboral la ventaja sí es clara.</aside>
 </section>
