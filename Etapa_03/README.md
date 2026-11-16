@@ -95,3 +95,24 @@ Las etiquetas del perfil usan los umbrales anteriores a abril de 2026, solo para
 - Cinco pruebas: límites de etiquetas, historial incompleto/ausente, WAPE con denominador cero, cobertura sin doble conteo y perfiles con ausencias. Un WAPE sin volumen observado queda vacío y se interpreta como **no evaluable**.
 
 Pendiente del Hito 2: error firmado medio (predicción menos observado), métricas por tipo de día, subestimación de franjas altas, matrices ampliadas y selección por WAPE conjunto de noviembre de 2025 y abril de 2026. Pendiente del Hito 3: notebook completo, gráficos y presentación integrados, revisión contra la rúbrica y ensayo. Los responsables y la validación del relato por el equipo siguen por asignar; no se da por cerrada la entrega completa del Hito 1.
+
+## Hito 2 y 3: comparación de modelos, robustez y entrega
+
+Reproducir desde la raíz del repositorio:
+
+```bash
+python -m venv .venv
+.venv/Scripts/pip install -r Etapa_03/requirements.txt pytest jupyter
+.venv/Scripts/python -m pytest Etapa_03/codigo
+.venv/Scripts/jupyter nbconvert --to notebook --execute --inplace Etapa_03/notebooks/etapa_iii_final.ipynb
+```
+
+| Script | Salida | Contenido |
+|---|---|---|
+| `codigo/comparacion_modelos.py` | `resultados/hito_2/` | 4 métodos (media histórica, último observado, Ridge y Gradient Boosting) con validación de origen móvil (pruebas en 2025-11 y 2026-04) |
+| `codigo/validacion_robustez.py` | `resultados/hito_2b/` | Bootstrap IC 95 %, RMSE, ajuste de hiperparámetros sin fuga, importancia por permutación, residuos y sensibilidad de umbrales |
+| `codigo/figuras_hito_3.py` | `resultados/figuras/` | Figuras de la presentación |
+
+**Modelo seleccionado:** media histórica (WAPE conjunto 6,95 %, IC 95 % 6,3–7,7). Empata estadísticamente con Ridge y se elige por ser la más simple y por detectar más franjas Alto.
+
+Presentación: `presentacion/deck/` (fuente de las láminas) y `presentacion/preguntas_y_respuestas.md`.

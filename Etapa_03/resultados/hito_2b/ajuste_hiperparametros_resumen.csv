@@ -1,0 +1,4 @@
+metodo,mejores_params,WAPE_prueba_2026_04
+Ridge (log),{'alpha': 10},8.451467005277758
+Gradient Boosting (log),"{'max_depth': 2, 'learning_rate': 0.03, 'max_iter': 100, 'min_samples_leaf': 10}",6.0114083305895365
+Media histórica,{},8.292313512486352

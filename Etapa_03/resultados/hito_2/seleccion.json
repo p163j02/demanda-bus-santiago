@@ -1,0 +1,60 @@
+{
+  "criterio": "Menor WAPE conjunto 2025-11 + 2026-04 (validación de origen móvil)",
+  "modelo_seleccionado": "Media histórica",
+  "ranking": [
+    {
+      "metodo": "Media histórica",
+      "WAPE_pct": 6.954,
+      "MAE": 472.009,
+      "sesgo_pct": -1.837,
+      "acierto_etiqueta_pct": 90.693
+    },
+    {
+      "metodo": "Ridge (log)",
+      "WAPE_pct": 7.052,
+      "MAE": 478.65,
+      "sesgo_pct": -3.178,
+      "acierto_etiqueta_pct": 92.871
+    },
+    {
+      "metodo": "Gradient Boosting (log)",
+      "WAPE_pct": 7.831,
+      "MAE": 531.507,
+      "sesgo_pct": -0.67,
+      "acierto_etiqueta_pct": 87.525
+    },
+    {
+      "metodo": "Último observado",
+      "WAPE_pct": 9.176,
+      "MAE": 622.792,
+      "sesgo_pct": -1.475,
+      "acierto_etiqueta_pct": 84.95
+    }
+  ],
+  "wape_por_corte": {
+    "2025-11": {
+      "Gradient Boosting (log)": 11.001,
+      "Media histórica": 5.598,
+      "Ridge (log)": 6.43,
+      "Último observado": 8.778
+    },
+    "2026-04": {
+      "Gradient Boosting (log)": 4.703,
+      "Media histórica": 8.292,
+      "Ridge (log)": 7.666,
+      "Último observado": 9.568
+    }
+  },
+  "gana_en_ambos_cortes": false,
+  "features": [
+    "log_media",
+    "log_ultimo",
+    "hora_sin",
+    "hora_cos",
+    "temporada_nov",
+    "dia_LABORAL",
+    "dia_SABADO",
+    "dia_DOMINGO",
+    "sector_sur"
+  ]
+}

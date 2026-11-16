@@ -1,0 +1,17 @@
+<section id="ajuste" class="alt">
+<p class="eyebrow">AJUSTE DE HIPERPARÁMETROS E IMPORTANCIA</p>
+<h2>Ajustados sin hacer trampa, ¿qué aprenden los modelos?</h2>
+<div class="row">
+<div style="display:flex; flex-direction:column; gap:24px; width:800px;">
+<p class="small">Grilla entrenada con abr-2025 y <b>validada con nov-2025</b>. La mejor configuración se reentrena y se prueba <b>una sola vez</b> en abr-2026.</p>
+<table style="width:800px; font-size:28px;">
+<tr><th style="width:55%">Prueba abr-2026</th><th style="width:45%">WAPE</th></tr>
+<tr><td>Gradient Boosting ajustado</td><td>6,0 %</td></tr>
+<tr><td>Media histórica</td><td>8,3 %</td></tr>
+<tr><td>Ridge ajustado (α = 10)</td><td>8,5 %</td></tr>
+</table>
+</div>
+<div class="card" style="--i:0; width:760px; flex:none;"><h3>Importancia por permutación</h3><p class="lbl"><b>Último observado</b> y <b>tipo de día (domingo)</b> son las variables que más pesan: el ML corrige la media histórica según la tendencia reciente y la variabilidad del domingo.</p><p class="lbl">La hora aporta poco, porque la media histórica ya trae el perfil del día.</p></div>
+</div>
+<aside>El 4,7 % de Gradient Boosting sin ajustar era en parte suerte de la configuración. Con un ajuste correcto queda en 6,0 %: sigue siendo mejor que la media en abril, pero solo tenemos ese corte para confirmarlo. Temporada aparece con importancia 0 porque es constante dentro del corte de prueba.</aside>
+</section>

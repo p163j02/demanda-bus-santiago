@@ -35,12 +35,12 @@
     "2026-04"
   ],
   "entradas_sha256": {
-    "Etapa_02/resultados/panel_demanda_bus_modelo.csv": "9885744697fecf1d5be90ab2909e00bbfffd95aaa1758372d5813a1120e3b33f",
-    "Etapa_02/resultados/panel_demanda_bus.csv": "b5c9909712bb417cf06b42a229110ad1f1ae8eb162d14cd9293fca254b878a2c",
-    "Etapa_02/resultados/panel_quality_report.json": "7208c3b46c9d70faf2c7252d812a2245fbcb63c71283c9f8b9737f91211e34c9"
+    "Etapa_02\\resultados\\panel_demanda_bus_modelo.csv": "9885744697fecf1d5be90ab2909e00bbfffd95aaa1758372d5813a1120e3b33f",
+    "Etapa_02\\resultados\\panel_demanda_bus.csv": "b5c9909712bb417cf06b42a229110ad1f1ae8eb162d14cd9293fca254b878a2c",
+    "Etapa_02\\resultados\\panel_quality_report.json": "7208c3b46c9d70faf2c7252d812a2245fbcb63c71283c9f8b9737f91211e34c9"
   },
   "entorno": {
-    "python": "3.14.9",
+    "python": "3.13.3",
     "pandas": "3.0.5",
     "numpy": "2.5.3"
   },
