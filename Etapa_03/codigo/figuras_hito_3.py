@@ -122,8 +122,34 @@ def fig_residuos(res):
     fig.savefig(SALIDA / "06_sesgo_por_bloque.png", dpi=160)
 
 
+def fig_ampliacion(res, vol):
+    fig, (a1, a2) = plt.subplots(1, 2, figsize=(14, 5), gridspec_kw=dict(width_ratios=[1.6, 1]))
+    hist = ["Original (2024-11 →)", "Ampliado (2023-04 →)"]
+    t = res.set_index(["historial", "metodo"]).WAPE_pct
+    x = np.arange(len(ORDEN))
+    for k, (h, c) in enumerate(zip(hist, ["#9aa5b1", "#1f6f8b"])):
+        b = a1.bar(x + (k - 0.5) * 0.38, [t[(h, m)] for m in ORDEN], 0.38, label=h, color=c)
+        a1.bar_label(b, fmt="%.1f", fontsize=9)
+    a1.set_xticks(x, [m.replace(" (log)", "") for m in ORDEN], fontsize=10)
+    a1.set_ylabel("WAPE laboral (%)")
+    a1.set_title("Más historia: el ML mejora, la media empeora", loc="left", fontweight="bold")
+    a1.legend(frameon=False, title="Historial")
+    v = vol.set_index("periodo")
+    for s, c in [("Oriente", "#1f6f8b"), ("Sur", "#e3a33b")]:
+        a2.plot(v.index, v[s] / 1000, marker="o", color=c, label=s)
+    a2.set_ylabel("Subidas laborales (miles)")
+    a2.set_title("La demanda crece entre cortes", loc="left", fontweight="bold")
+    a2.tick_params(axis="x", rotation=45)
+    a2.legend(frameon=False)
+    fig.tight_layout()
+    fig.savefig(SALIDA / "07_historial_ampliado.png", dpi=160)
+
+
 def main():
     SALIDA.mkdir(parents=True, exist_ok=True)
+    amp = ROOT / "Etapa_03/resultados/hito_2c"
+    if amp.exists():
+        fig_ampliacion(pd.read_csv(amp / "resumen_sensibilidad.csv"), pd.read_csv(amp / "volumen_laboral_por_corte.csv"))
     rob = ROOT / "Etapa_03/resultados/hito_2b"
     if rob.exists():
         fig_bootstrap(pd.read_csv(rob / "bootstrap_wape.csv"))

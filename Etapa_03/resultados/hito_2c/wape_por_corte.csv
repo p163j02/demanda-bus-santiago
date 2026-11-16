@@ -1,0 +1,17 @@
+historial,periodo,metodo,WAPE_pct
+Ampliado (2023-04 →),2025-11,Gradient Boosting (log),2.8742934858146874
+Ampliado (2023-04 →),2025-11,Media histórica,9.432541398802911
+Ampliado (2023-04 →),2025-11,Ridge (log),4.623411573834515
+Ampliado (2023-04 →),2025-11,Último observado,3.6976266228265473
+Ampliado (2023-04 →),2026-04,Gradient Boosting (log),3.45728066157126
+Ampliado (2023-04 →),2026-04,Media histórica,9.871822274313889
+Ampliado (2023-04 →),2026-04,Ridge (log),3.334418136060018
+Ampliado (2023-04 →),2026-04,Último observado,4.555257703790585
+Original (2024-11 →),2025-11,Gradient Boosting (log),6.518049718537585
+Original (2024-11 →),2025-11,Media histórica,4.194659156406893
+Original (2024-11 →),2025-11,Ridge (log),6.8180686085023074
+Original (2024-11 →),2025-11,Último observado,3.6976266228265473
+Original (2024-11 →),2026-04,Gradient Boosting (log),3.178266483950848
+Original (2024-11 →),2026-04,Media histórica,5.368676249755649
+Original (2024-11 →),2026-04,Ridge (log),6.04504417527568
+Original (2024-11 →),2026-04,Último observado,4.555257703790585

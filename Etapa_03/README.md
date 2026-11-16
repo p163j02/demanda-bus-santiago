@@ -111,8 +111,13 @@ python -m venv .venv
 |---|---|---|
 | `codigo/comparacion_modelos.py` | `resultados/hito_2/` | 4 métodos (media histórica, último observado, Ridge y Gradient Boosting) con validación de origen móvil (pruebas en 2025-11 y 2026-04) |
 | `codigo/validacion_robustez.py` | `resultados/hito_2b/` | Bootstrap IC 95 %, RMSE, ajuste de hiperparámetros sin fuga, importancia por permutación, residuos y sensibilidad de umbrales |
+| `codigo/ampliacion_2023.py` | `resultados/hito_2c/` | Historial ampliado con las Subidas laborales de 2023 (abr, ago, nov). Compara historial original y ampliado sobre las mismas franjas laborales, con bootstrap |
 | `codigo/figuras_hito_3.py` | `resultados/figuras/` | Figuras de la presentación |
 
-**Modelo seleccionado:** media histórica (WAPE conjunto 6,95 %, IC 95 % 6,3–7,7). Empata estadísticamente con Ridge y se elige por ser la más simple y por detectar más franjas Alto.
+**Modelo seleccionado, por segmento:**
+- **Laboral:** Gradient Boosting con historial 2023–2026. WAPE 3,2 %, significativamente mejor que la media histórica (−1,6 pp, IC 95 % [−2,1; −1,2]).
+- **Sábado y domingo:** media histórica, porque no hay datos de 2023 para esos días. En la evaluación de 2024–2026 empata estadísticamente con Ridge (WAPE conjunto 6,95 %) y es la más simple.
+
+`ampliacion_2023.py` lee los ZIP de `Datos/Fuentes/Subidas/` (ignorados por git; ver `compartir_datos.md`) y requiere `pyxlsb`.
 
 Presentación: `presentacion/deck/` (fuente de las láminas) y `presentacion/preguntas_y_respuestas.md`.

@@ -21,8 +21,17 @@ Con una grilla entrenada en abr-2025 y validada en nov-2025. La mejor configurac
 
 ## Modelos
 
-**Si Gradient Boosting ganó en abril (6,0 % vs 8,3 %), ¿por qué no lo eligieron?**
-Porque en noviembre 2025 fue el peor (11 %) y en el conjunto es significativamente peor que la media (IC de la diferencia: +0,11 a +1,68 pp). Un solo corte favorable no basta. Lo dejamos como el candidato para cuando haya más historia.
+**¿Al final cuál es el modelo elegido?**
+Depende del segmento. En días laborales, Gradient Boosting entrenado con el historial 2023–2026 (WAPE 3,2 %). En sábado y domingo, la media histórica, porque no hay datos de 2023 para esos días.
+
+**¿No es contradictorio que con 4 cortes gane la media y con 7 gane Gradient Boosting?**
+No. Con 4 cortes, el ML entrena con 173 filas y la media histórica aún no arrastra años antiguos. Con 7 cortes laborales, el ML entrena con 429 filas, y la media histórica empeora porque promedia 2023, cuando la demanda era 24 a 27 % menor. El ML usa el último observado para corregir esa tendencia.
+
+**¿La mejora con 2023 es significativa?**
+Sí: Gradient Boosting ampliado contra la media histórica original da −1,6 pp, con IC 95 % [−2,1; −1,2], sobre las mismas 172 franjas laborales.
+
+**¿Qué tan confiables son los datos de 2023?**
+Tienen el mismo origen (ADATRAP, sin evasión), pero solo traen días laborales y no tienen columna de modo. Filtramos BUS por paradero y código de servicio (T/F/B), excluyendo Metro y Metrotren. Cuadran con la tendencia de los cortes siguientes. La cobertura del Sur es menor (40 a 42 de 48 franjas completas), y las franjas incompletas se excluyen.
 
 **¿Qué aprende el modelo de ML?**
 Por importancia de permutación, sobre todo el **último valor observado** (tendencia reciente) y **si es domingo**. Corrige la media histórica, no reemplaza el perfil horario.
@@ -43,8 +52,5 @@ No: subidas registradas (validaciones). La evasión no está corregida, y es par
 **¿El modelo sirve en la práctica?**
 En días laborales y sábados el error es de ~3–6 %, suficiente para anticipar las puntas. El domingo tiene entre 14 % y 23 % de error y debe usarse con cautela. El modelo subestima ~2 % (~4 % en la punta de la tarde del Sur), así que conviene planificar con margen.
 
-**¿Por qué subestima?**
-La demanda creció entre cortes y un promedio de cortes pasados reacciona con rezago.
-
-**¿Qué harían con más tiempo?**
-Integrar los cortes de 2022–2023, que ya están descargados y organizados, y repetir exactamente el mismo protocolo. Es lo que más necesita el ML para superar al baseline.
+**¿Por qué subestima la media histórica?**
+Porque la demanda crece en cada corte (Oriente +24 % entre abr-2023 y abr-2026) y un promedio de cortes pasados siempre llega atrasado.
