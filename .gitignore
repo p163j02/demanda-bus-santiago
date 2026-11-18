@@ -6,6 +6,7 @@ Datos/Fuentes/**/*.rar
 Datos/Fuentes/**/*.csv
 Datos/Fuentes/**/*.csv.gz
 Datos/Fuentes/**/*.gz
+Datos
 
 # Archivos temporales de generación de presentaciones
 tmp/
